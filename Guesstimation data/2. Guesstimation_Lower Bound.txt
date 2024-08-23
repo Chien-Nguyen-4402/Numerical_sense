@@ -1,0 +1,1536 @@
+How many cups of coffee does a person typically drink in a week? 10
+How many books does an individual usually read in a year? 10
+How many languages can someone typically speak? 10
+How many hours does a person typically spend on social media per day? 1
+How many miles does someone typically walk in a day? 1
+How many emails does a person typically receive per day? 10
+How many push-ups can someone typically do in one minute? 10
+How many hours of sleep does an individual typically get per night? 1
+How many texts does someone typically send in a day? 10
+How many steps does an individual typically take in a day? 10
+How many Facebook friends does a person typically have? 100
+How many calories does someone typically consume in a day? 100
+How many hours does someone typically spend watching TV per day? 10
+How many selfies does a person typically take in a week? 10
+How many hours does someone typically spend commuting per week? 10
+How many times does someone typically check their phone per day? 10
+How many pets does an individual typically own? 10
+How many photos does someone typically take in a month? 10
+How many hours does someone typically spend exercising per week? 10
+How many movies does someone typically watch in a month? 10
+How many pairs of shoes does an individual typically own? 10
+How many times does someone typically eat out in a week? 10
+How many hours does someone typically spend reading per week? 10
+How many vacations does an individual typically take in a year? 1
+How many household chores does someone typically do in a week? 10
+How many text messages does someone typically send in a month? 10
+How many cups of water does an individual typically drink in a day? 10
+How many hours does someone typically spend on their phone per day? 1
+How many friends does someone typically have on social media? 100
+How many hours does someone typically spend in meetings per week? 10
+How many hours does someone typically spend cooking per week? 10
+How many songs does someone typically have on their playlist? 100
+How many times does someone typically go grocery shopping in a month? 10
+How many times does someone typically eat dessert in a week? 10
+How many hours does someone typically spend listening to music per day? 1
+How many apps does someone typically have on their phone? 100
+How many hours does someone typically spend on hobbies per week? 10
+How many times does someone typically go to the gym in a week? 10
+How many pieces of fruit does an individual typically eat in a day? 10
+How many unread emails does someone typically have in their inbox? 10
+How many hours does someone typically spend on homework/study per week? 10
+How many clothes does an individual typically own? 100
+How many hours does someone typically spend watching YouTube per day? 10
+How many friends does someone typically have in real life? 10
+How many hours does someone typically spend playing video games per week? 10
+How many social media accounts does someone typically have? 10
+How many hours does someone typically spend on housework per week? 10
+How many people does someone typically interact with in a day? 10
+How many times does someone typically eat fast food in a week? 10
+How many hours does someone typically spend in traffic per week? 10
+How many photos does someone typically post on social media in a month? 10
+How many hours does someone typically spend on homework/study per day? 1
+How many unread text messages does someone typically have on their phone? 10
+How many hours does someone typically spend at work per day? 1
+How many emails does someone typically send in a day? 10
+How many hours does someone typically spend on household chores per week? 10
+How many hours does someone typically spend on their computer per day? 1
+How many hours does someone typically spend in meetings per day? 1
+How many books does an individual typically own? 100
+How many hours does someone typically spend on personal grooming per week? 10
+How many times does someone typically go out to eat in a month? 10
+How many hours does someone typically spend on social media per week? 10
+How many phone calls does someone typically make in a day? 10
+How many hours does someone typically spend on self-care activities per week? 10
+How many times does someone typically check the weather forecast in a day? 10
+How many hours does someone typically spend watching TV per week? 10
+How many grains of sand are there on a beach? 100
+How many stars are there in the Milky Way galaxy? 100
+How many drops of water are there in an Olympic-sized swimming pool? 100
+How many blades of grass are there on a football field? 100
+How many atoms are there in a human body? 100
+How many leaves are there on an average-sized tree? 10
+How many raindrops fall during a typical rainfall? 100
+How many breaths does a person take in a day? 10
+How many grains of rice are in a 5 kg bag? 10
+How many cells are there in the human brain? 100
+How many particles are there in a speck of dust? 100
+How many drops of rain fall in a year? 100
+How many hairs are there on a human head? 10
+How many gallons of water are there in the Pacific Ocean? 100
+How many atoms are there in a grain of sand? 100
+How many stars are there in the observable universe? 100
+How many molecules are there in a breath of air? 100
+How many snowflakes fall during a typical snowstorm? 100
+How many grains of salt are in a teaspoon? 10
+How many raindrops fall in a typical thunderstorm? 100
+How many cells are there in the human body? 100
+How many blades of grass are there in a meadow? 100
+How many pixels are there on a 4K resolution screen? 100
+How many atoms are there in a drop of water? 100
+How many particles are there in a ray of sunlight? 100
+How many bubbles are there in a bubble bath? 100
+How many photons are emitted by a lightbulb in a day? 100
+How many sand dunes are there in a desert? 100
+How many droplets are in a foggy morning mist? 100
+How many pebbles are on a riverbank? 100
+How many particles are there in a grain of pollen? 100
+How many bubbles are in a glass of soda? 100
+How many molecules are there in a drop of blood? 100
+How many stars are there in the Andromeda galaxy? 100
+How many blades of wheat are in a field? 100
+How many atoms are there in a single breath exhaled by a whale? 100
+How many raindrops fall in a month in a rainforest? 100
+How many bubbles are in a boiling pot of water? 100
+How many grains of pollen are there in a flower? 100
+How many drops of dew are on a spider's web in the morning? 100
+How many particles are there in a puff of smoke from a chimney? 100
+How many grains of sugar are in a cup? 100
+How many snowflakes fall in a blizzard? 100
+How many photons are there in a sunbeam? 100
+How many raindrops fall in a year in a temperate climate? 100
+How many sand grains are there in a sandcastle? 100
+How many drops of water are in a cloud? 100
+How many atoms are there in a breath of wind? 100
+How many bubbles are in a glass of champagne? 100
+How many particles are there in a misty fog? 100
+How many apples are in a typical grocery store display? 100
+How many pencils are typically in a pack? 10
+How many breaths does a person take in an hour? 100
+How many teaspoons of sugar are in a can of soda? 10
+How many blades of grass are in a square foot of lawn? 100
+How many cookies are in a standard package? 10
+How many drops of rain fall during a light shower? 100
+How many pages are in a typical novel? 100
+How many slices of bread are in a loaf? 10
+How many stars are visible on a clear night in a city? 10
+How many grains of sand are in a sandcastle? 100
+How many minutes does it take to boil an egg? 1
+How many students are in an average classroom? 10
+How many petals does a typical daisy have? 1
+How many photos are typically taken on a family vacation? 100
+How many bricks are in a typical brick wall? 100
+How many eggs are in a dozen? 10
+How many people are usually in a line at the grocery store checkout? 10
+How many slices of pizza are in a large pie? 10
+How many leaves fall from a tree in autumn? 100
+How many grapes are typically in a bunch? 10
+How many hours does a person typically sleep in a night? 1
+How many seeds are in a typical apple? 10
+How many ants are in a typical ant colony? 100
+How many minutes does it take to brush your teeth? 1
+How many cars are typically parked in a parking lot? 100
+How many spoons of sugar are usually added to a cup of coffee? 1
+How many minutes does it take to make a cup of tea? 1
+How many nails are in a typical box of nails? 100
+How many days are in a typical month? 10
+How many flowers are in a typical bouquet? 10
+How many keys are on a typical computer keyboard? 100
+How many people are usually on a subway car during rush hour? 10
+How many pieces of candy are in a typical bag of candy? 100
+How many minutes does it take to cook a frozen pizza? 1
+How many hours does it take to drive across a state? 10
+How many beads are on a typical necklace? 10
+How many minutes does it take to bake a batch of cookies? 1
+How many people are typically in a movie theater audience? 10
+How many books are typically on a library shelf? 100
+How many minutes does it take to walk a mile? 1
+How many hairs are typically on a person's head? 100
+How many passengers are typically on a city bus? 10
+How many buttons are on a typical shirt? 10
+How many people are typically at a birthday party? 10
+How many hours does it take to fly across the country? 10
+How many coins are in a typical piggy bank? 100
+How many minutes does it take to do a load of laundry? 1
+How many steps are typically in a flight of stairs? 10
+How many seconds does it take to tie a shoe? 1
+How many blades of grass are in a square meter of lawn? 100
+How many minutes does it take to brew a pot of coffee? 1
+How many drops of water are in a rainstorm? 100
+How many shells are typically found on a beach? 100
+How many minutes does it take to boil an ear of corn? 1
+How many people typically attend a wedding ceremony? 10
+How many clouds are typically in the sky on a partly cloudy day? 100
+How many ants are in an ant hill? 100
+How many minutes does it take to iron a shirt? 1
+How many birds are in a typical flock? 100
+How many grains of rice are in a cup? 100
+How many minutes does it take to bake a loaf of bread? 1
+How many leaves are on a deciduous tree in summer? 100
+How many beads are on a typical bracelet? 10
+How many minutes does it take to roast a chicken? 1
+How many fish are typically in a school of fish? 100
+How many drops of water are in a waterfall? 100
+How many minutes does it take to change a lightbulb? 1
+How many flowers are in a typical garden? 100
+How many minutes does it take to inflate a balloon? 1
+How many seeds are in a typical pumpkin? 100
+How many minutes does it take to climb a flight of stairs? 1
+How many stars are typically visible in the night sky? 100
+How many minutes does it take to fold a load of laundry? 1
+How many leaves are on a palm tree? 100
+How many minutes does it take to peel an orange? 1
+How many snowflakes fall during a snowstorm? 100
+How many minutes does it take to microwave popcorn? 1
+How many grains of sand are on a sandy beach? 100
+How many minutes does it take to brush a pet's fur? 1
+How many drops of rainfall in a typical rainfall? 100
+How many minutes does it take to cook a scrambled egg? 1
+How many trees are in a typical orchard? 100
+How many minutes does it take to pack a suitcase? 1
+How many waves are there in the ocean? 100
+How many minutes does it take to carve a pumpkin? 1
+How many pebbles are typically found on a riverbank? 100
+How many minutes does it take to clean a window? 1
+How many flowers are typically in a bouquet? 100
+How many minutes does it take to set a table for dinner? 1
+How many grains of sand are in a sand dune? 100
+How many minutes does it take to paint a small room? 1
+How many birds are typically in a bird's nest? 100
+How many minutes does it take to write a thank-you note? 1
+How many stars are typically visible in a city sky? 10
+How many minutes does it take to chop an onion? 1
+How many grains of rice are typically in a serving? 10
+How many minutes does it take to fill a bathtub? 1
+How many pieces of fruit are in a typical fruit bowl? 10
+How many minutes does it take to assemble a jigsaw puzzle? 1
+How many grains of sand are there in a sandcastle? 100
+How many minutes does it take to brew a pot of tea? 1
+How many blades of grass are typically in a square meter of lawn? 100
+How many minutes does it take to cook a bowl of instant noodles? 1
+How many bubbles are typically in a glass of soda? 100
+How many minutes does it take to write a short email? 1
+How many drops of water are typically in a rain shower? 100
+How many minutes does it take to make a bed? 1
+How many clouds are typically in the sky on a partly cloudy day? 100
+How many minutes does it take to tie a shoelace? 1
+How many ants are typically in an ant colony? 100
+How many minutes does it take to brush your teeth? 1
+How many bubbles are typically in a bubble bath? 100
+How many minutes does it take to peel an orange? 1
+How many coins are typically in a piggy bank? 100
+How many minutes does it take to brew a cup of coffee? 1
+How many flowers are typically in a flower bouquet? 100
+How many minutes does it take to fold a load of laundry? 1
+How many leaves are typically on a tree? 100
+How many minutes does it take to microwave popcorn? 1
+How many grains of rice are typically in a serving? 10
+How many minutes does it take to make a sandwich? 1
+How many drops of rain fall in a typical rainstorm? 100
+How many minutes does it take to make a cup of instant noodles? 1
+How many bubbles are typically in a glass of champagne? 100
+How many minutes does it take to water a garden? 1
+How many stars are typically visible in the night sky in a rural area? 100
+How many minutes does it take to brush a pet's fur? 1
+How many grains of sand are typically on a beach towel? 100
+How many minutes does it take to set the table for dinner? 1
+How many waves are typically in the ocean on a calm day? 100
+How many minutes does it take to peel a potato? 1
+How many coins are typically in a vending machine? 100
+How many minutes does it take to wrap a gift? 1
+How many grains of sand are typically in a sand dune? 100
+How many minutes does it take to cook an egg? 1
+How many stars are typically visible in the night sky in a city? 10
+How many minutes does it take to pack a suitcase? 1
+How many raindrops are typically in a raindrop? 100
+How many minutes does it take to change a lightbulb? 1
+How many leaves are typically on a tree in autumn? 100
+How many minutes does it take to write a short note? 1
+How many bubbles are typically in a glass of beer? 100
+How many minutes does it take to prepare a cup of instant soup? 1
+How many clouds are typically in the sky on a clear day? 100
+How many minutes does it take to do a load of laundry? 1
+How many petals are typically on a flower? 10
+How many minutes does it take to paint a small picture? 1
+How many bubbles are typically in a glass of sparkling water? 100
+How many minutes does it take to walk a mile? 1
+How many raindrops are typically in a rainstorm? 100
+How many minutes does it take to prepare a cup of tea? 1
+How many bubbles are typically in a glass of soda? 100
+How many minutes does it take to write a short email? 1
+How many drops of water are typically in a rain shower? 100
+How many minutes does it take to make a bed? 1
+How many clouds are typically in the sky on a partly cloudy day? 100
+How many minutes does it take to tie a shoelace? 1
+How many ants are typically in an ant colony? 100
+How many minutes does it take to brush your teeth? 1
+How many bubbles are typically in a bubble bath? 100
+How many minutes does it take to peel an orange? 1
+How many coins are typically in a piggy bank? 100
+How many minutes does it take to brew a cup of coffee? 1
+How many flowers are typically in a flower bouquet? 100
+How many minutes does it take to fold a load of laundry? 1
+How many leaves are typically on a tree? 100
+How many minutes does it take to microwave popcorn? 1
+How many grains of rice are typically in a serving? 10
+How many minutes does it take to make a sandwich? 1
+How many drops of rain fall in a typical rainstorm? 100
+How many minutes does it take to make a cup of instant noodles? 1
+How many bubbles are typically in a glass of champagne? 100
+How many minutes does it take to water a garden? 1
+How many stars are typically visible in the night sky in a rural area? 100
+How many minutes does it take to brush a pet's fur? 1
+How many grains of sand are typically on a beach towel? 100
+How many minutes does it take to set the table for dinner? 1
+How many waves are typically in the ocean on a calm day? 100
+How many minutes does it take to peel a potato? 1
+How many coins are typically in a vending machine? 100
+How many minutes does it take to wrap a gift? 1
+How many grains of sand are typically in a sand dune? 100
+How many minutes does it take to cook an egg? 1
+How many stars are typically visible in the night sky in a city? 10
+How many minutes does it take to pack a suitcase? 1
+How many raindrops are typically in a raindrop? 100
+How many minutes does it take to change a lightbulb? 1
+How many leaves are typically on a tree in autumn? 100
+How many minutes does it take to write a short note? 1
+How many bubbles are typically in a glass of beer? 100
+How many minutes does it take to prepare a cup of instant soup? 1
+How many clouds are typically in the sky on a clear day? 100
+How many minutes does it take to do a load of laundry? 1
+How many petals are typically on a flower? 10
+How many minutes does it take to paint a small picture? 1
+How many bubbles are typically in a glass of sparkling water? 100
+How many minutes does it take to walk a mile? 1
+How many raindrops are typically in a rainstorm? 100
+How many minutes does it take to prepare a cup of tea? 1
+How many grains of sand are in an hourglass? 100
+How many footsteps does a person take in a day? 100
+How many drops of water are in a swimming pool? 100
+How many leaves fall from a tree in a week? 100
+How many keys are on a typical keychain? 10
+How many emails does a person receive in a day? 100
+How many feathers are on a typical bird? 100
+How many pebbles are on a beach? 100
+How many breaths does a person take in a minute? 10
+How many lightbulbs are in a typical office building? 100
+How many pieces of candy are in a candy jar? 10
+How many petals are on a sunflower? 10
+How many hairs are on a person's head? 100
+How many buttons are on a remote control? 10
+How many grains of rice are in a cup? 100
+How many books are in a library? 100
+How many ants are in an ant farm? 100
+How many pencils are in a pack? 10
+How many minutes does it take to boil an egg? 1
+How many cookies are in a cookie jar? 10
+How many raindrops fall in a rainstorm? 100
+How many leaves are on a tree in spring? 100
+How many stairs are in a typical staircase? 10
+How many grains of sand are on a playground? 100
+How many seeds are in a watermelon? 100
+How many buttons are on a shirt? 10
+How many grains of rice are in a bowl of rice? 100
+How many stars are in the Milky Way galaxy? 100
+How many drops of water are in a waterfall? 100
+How many minutes does it take to bake a cake? 1
+How many bricks are in a brick wall? 100
+How many flowers are in a garden? 100
+How many cars are on a highway during rush hour? 100
+How many minutes does it take to brew a cup of tea? 1
+How many grains of sand are in an hourglass? 100
+How many drops of rain fall in a typical rainfall? 100
+How many apples are in a bushel? 100
+How many clouds are in the sky on a cloudy day? 100
+How many minutes does it take to cook pasta? 1
+How many seeds are in a pumpkin? 100
+How many bubbles are in a bubble bath? 100
+How many minutes does it take to boil water? 1
+How many trees are in a forest? 100
+How many drops of water are in a glass of water? 100
+How many minutes does it take to make a cup of hot chocolate? 1
+How many blades of grass are in a lawn? 100
+How many pieces of paper are in a ream? 100
+How many leaves are on a tree in summer? 100
+How many minutes does it take to brew a cup of coffee? 1
+How many grains of sand are on a beach? 100
+How many ants are in an ant hill? 100
+How many drops of water are in a raindrop? 100
+How many minutes does it take to make a cup of lemonade? 1
+How many petals are on a rose? 10
+How many seeds are in an apple? 10
+How many minutes does it take to cook a hamburger? 1
+How many grains of sand are on a desert? 100
+How many cells are in the human body? 100
+How many drops of water are in a puddle? 100
+How many minutes does it take to make a cup of soup? 1
+How many blades of grass are on a golf course? 100
+How many pages are in a typical book? 100
+How many minutes does it take to cook rice? 1
+How many eggs are in a dozen? 10
+How many keys are on a piano? 100
+How many drops of water are in a swimming pool? 100
+How many minutes does it take to make a cup of iced tea? 1
+How many blades are on a typical wind turbine? 100
+How many pieces of popcorn are in a popped bag? 100
+How many clouds are in the sky on a sunny day? 100
+How many minutes does it take to make a cup of hot cocoa? 1
+How many petals are on a daisy? 10
+How many drops of rain fall in a thunderstorm? 100
+How many minutes does it take to cook spaghetti? 1
+How many grains of sand are in a sandcastle? 100
+How many teeth does a person typically have? 10
+How many drops of water are in a water balloon? 100
+How many minutes does it take to make a cup of herbal tea? 1
+How many blades of grass are in a soccer field? 100
+How many seeds are in a sunflower? 100
+How many drops of water are in a water fountain? 100
+How many minutes does it take to cook pancakes? 1
+How many bubbles are in a glass of champagne? 100
+How many leaves are on a tree in winter? 100
+How many minutes does it take to make a cup of matcha? 1
+How many petals are on a tulip? 10
+How many drops of water are in a rain puddle? 100
+How many minutes does it take to cook bacon? 1
+How many feathers are on a bird's wing? 100
+How many grains of sand are in an hourglass? 100
+How many pieces of candy are in a bag of candy? 100
+How many buttons are on a coat? 10
+How many drops of water are in a fountain? 100
+How many minutes does it take to make a cup of iced coffee? 1
+How many leaves are on a tree in fall? 100
+How many bubbles are in a glass of sparkling water? 100
+How many grains of sand are in a sand dune? 100
+How many seeds are in a strawberry? 10
+How many drops of water are in a waterfall? 100
+How many minutes does it take to bake a potato? 1
+How many cells are in the human body? 100
+How many blades of grass are in a football field? 100
+How many bubbles are in a bottle of soda? 100
+How many keys are on a grand piano? 100
+How many drops of water are in a swimming pool? 100
+How many feathers are on a peacock's tail? 100
+How many stars are in the Andromeda galaxy? 100
+How many seeds are in a pomegranate? 100
+How many cars pass through a toll booth in a day? 100
+How many ants are in an ant colony? 100
+How many teeth does an adult human have? 10
+How many drops of water are in a waterfall? 100
+How many leaves are on a redwood tree? 100
+How many books are in a university library? 100
+How many neurons are in the human brain? 100
+How many blades are on a wind turbine? 100
+How many fish are in the ocean? 100
+How many grains of sand are in the Sahara Desert? 100
+How many keys are on a computer keyboard? 10
+How many bubbles are in a bubble bath? 100
+How many stars are in the constellation Orion? 100
+How many petals are on a sunflower? 10
+How many blades of grass are on a golf course? 100
+How many raindrops fall in a rainstorm? 100
+How many ants are in an anthill? 100
+How many drops of water are in a rain puddle? 100
+How many leaves are on a maple tree? 100
+How many planets are in our solar system? 10
+How many bubbles are in a glass of champagne? 100
+How many grains of sand are on a beach? 100
+How many blades of grass are in a city park? 100
+How many drops of water are in a river? 100
+How many hairs are on a human head? 100
+How many stars are in the constellation Ursa Major? 100
+How many petals are on a rose? 10
+How many drops of rain fall in a typical thunderstorm? 100
+How many coins are in a fountain? 100
+How many trees are in the Amazon Rainforest? 100
+How many bubbles are in a glass of soda? 100
+How many teeth does a shark have? 100
+How many drops of water are in a pond? 100
+How many feathers are on a bald eagle's wing? 100
+How many stars are in the constellation Gemini? 100
+How many seeds are in a watermelon? 100
+How many bricks are in the Great Wall of China? 100
+How many grains of sand are on a desert island? 100
+How many drops of water are in a waterfall? 100
+How many leaves are on an oak tree? 100
+How many clouds are in the sky on a cloudy day? 100
+How many fish are in a coral reef? 100
+How many drops of water are in a fountain? 100
+How many feathers are on a penguin's back? 100
+How many stars are in the constellation Leo? 100
+How many seeds are in an apple? 10
+How many bricks are in a typical house? 100
+How many grains of sand are in a sandbox? 100
+How many drops of water are in a waterfall? 100
+How many leaves are on a palm tree? 100
+How many clouds are in the sky on a clear day? 100
+How many stars are in the constellation Sagittarius? 100
+How many drops of water are in a pond? 100
+How many feathers are on a flamingo's neck? 100
+How many keys are on a concert grand piano? 100
+How many drops of water are in a waterfall? 100
+How many leaves are on a weeping willow tree? 100
+How many bricks are in the Empire State Building? 100
+How many grains of sand are on a Caribbean beach? 100
+How many drops of water are in a river? 100
+How many stars are in the constellation Taurus? 100
+How many seeds are in a pumpkin? 100
+How many bricks are in the Colosseum in Rome? 100
+How many drops of water are in a waterfall? 100
+How many leaves are on a cherry blossom tree? 100
+How many clouds are in the sky on a stormy day? 100
+How many stars are in the constellation Pisces? 100
+How many drops of water are in a puddle? 100
+How many feathers are on a hummingbird's wing? 100
+How many keys are on a harpsichord? 100
+How many drops of water are in a waterfall? 100
+How many leaves are on a banana tree? 100
+How many bricks are in the Great Pyramid of Giza? 100
+How many grains of sand are on a Pacific beach? 100
+How many drops of water are in a stream? 100
+How many feathers are on an ostrich's body? 100
+How many stars are in the constellation Virgo? 100
+How many seeds are in a cucumber? 100
+How many bricks are in the Taj Mahal? 100
+How many drops of water are in a water balloon? 100
+How many leaves are on a eucalyptus tree? 100
+How many clouds are in the sky on a sunny day? 100
+How many stars are in the constellation Aquarius? 100
+How many seeds are in a mango? 100
+How many bricks are in the Roman Colosseum? 100
+How many drops of water are in a raindrop? 100
+How many leaves are on a palm frond? 100
+How many clouds are in the sky on a foggy day? 100
+How many stars are in the constellation Scorpius? 100
+How many seeds are in a bell pepper? 100
+How many bricks are in the Kremlin? 100
+How many drops of water are in a fountain? 100
+How many grains of sand are on a small seashell? 1
+How many LEGO bricks are in a typical child's toy box? 10
+How many bubbles are in a bottle of sparkling wine? 100
+How many keys are on a vintage typewriter? 10
+How many rainbows does a person see in a year? 10
+How many hairs are on a cat's tail? 10
+How many grains of rice are in a sushi roll? 10
+How many stars are visible in a city sky on a clear night? 1
+How many petals are on a rare orchid? 10
+How many bites does it take to eat a slice of pizza? 10
+How many bubbles are in a glass of carbonated water? 100
+How many keys are on a vintage pocket watch? 1
+How many ice cubes are in a pitcher of iced tea? 10
+How many waves crash onto a shore during a strong storm? 100
+How many feathers are on a tropical bird's wing? 10
+How many petals are on a single rose in a bouquet? 1
+How many coins are tossed in a game of heads or tails? 1
+How many bubbles are in a glass of sparkling lemonade? 100
+How many keys are on a vintage accordion? 10
+How many raindrops hit the ground during a light drizzle? 10
+How many feathers are on a peacock's crown? 10
+How many petals are on a wildflower in a meadow? 10
+How many drops of water are in a small fountain? 10
+How many stars are visible in the night sky from a mountaintop? 100
+How many bites does it take to eat a serving of spaghetti? 100
+How many bubbles are in a glass of champagne at a celebration? 100
+How many keys are on a vintage cash register? 10
+How many raindrops fall during a light rain shower? 10
+How many feathers are on a duck's wing? 10
+How many petals are on a cherry blossom in full bloom? 10
+How many coins are in a fountain in a public square? 100
+How many bubbles are in a glass of homemade soda? 100
+How many keys are on a vintage typewriter keyboard? 10
+How many raindrops hit the ground during a heavy downpour? 100
+How many feathers are on a swan's wing? 10
+How many petals are on a bouquet of fresh tulips? 10
+How many drops of water are in a small bird bath? 10
+How many stars are visible in the night sky from a desert oasis? 100
+How many bites does it take to eat a serving of lasagna? 100
+How many bubbles are in a glass of sparkling cider? 100
+How many keys are on a vintage music box? 10
+How many raindrops fall during a passing summer shower? 100
+How many feathers are on a hawk's wing? 10
+How many petals are on a blooming sunflower in a garden? 10
+How many coins are in a wishing well at a tourist attraction? 100
+How many bubbles are in a glass of homemade lemonade? 100
+How many keys are on a vintage mechanical calculator? 10
+How many raindrops hit the ground during a brief summer sprinkle? 10
+How many feathers are on an owl's wing? 10
+How many petals are on a blooming lotus flower in a pond? 10
+How many coins are in a fountain in a botanical garden? 100
+How many bubbles are in a glass of sparkling cider at a wedding? 100
+How many keys are on a vintage music box? 10
+How many raindrops fall during a gentle spring rain? 100
+How many feathers are on a bald eagle's wing? 10
+How many petals are on a blooming magnolia tree in a park? 10
+How many coins are in a fountain in a shopping mall? 100
+How many bubbles are in a glass of homemade root beer? 100
+How many keys are on a vintage music box? 10
+How many raindrops hit the ground during a misty morning? 10
+How many feathers are on a falcon's wing? 10
+How many petals are on a blooming hibiscus flower in a tropical garden? 10
+How many coins are in a fountain in a theme park? 100
+How many bubbles are in a glass of sparkling cider at a New Year's Eve party? 100
+How many keys are on a vintage player piano? 10
+How many raindrops fall during a foggy autumn morning? 10
+How many feathers are on a peacock's tail? 10
+How many petals are on a blooming cherry blossom tree in a Japanese garden? 10
+How many coins are in a fountain in a city square? 100
+How many bubbles are in a glass of homemade ginger ale? 100
+How many keys are on a vintage harpsichord? 10
+How many raindrops hit the ground during a winter snow flurry? 10
+How many feathers are on a turkey's wing? 10
+How many petals are on a blooming cherry blossom tree in a botanical garden? 10
+How many coins are in a fountain in a historic town square? 100
+How many bubbles are in a glass of homemade kombucha? 100
+How many keys are on a vintage music box? 10
+How many raindrops fall during a crisp autumn evening? 10
+How many feathers are on a goose's wing? 10
+How many petals are on a blooming cherry blossom tree in a springtime park? 10
+How many coins are in a fountain in a historic cathedral courtyard? 100
+How many bubbles are in a glass of homemade fruit punch? 100
+How many keys are on a vintage music box? 10
+How many raindrops hit the ground during a cool spring drizzle? 10
+How many feathers are on a peacock's crest? 10
+How many petals are on a blooming cherry blossom tree in a public garden? 10
+How many coins are in a fountain in a historic castle courtyard? 100
+How many bubbles are in a glass of homemade iced tea? 100
+How many keys are on a vintage music box? 10
+How many raindrops fall during a breezy summer afternoon? 10
+How many feathers are on a swan's wing? 10
+How many petals are on a blooming cherry blossom tree in a botanical park? 10
+How many coins are in a fountain in a historic landmark plaza? 100
+How many bubbles are in a glass of homemade lemon-lime soda? 100
+How many keys are on a vintage music box? 10
+How many raindrops hit the ground during a misty autumn morning? 10
+How many feathers are on an eagle's wing? 10
+How many petals are on a blooming cherry blossom tree in a city garden? 10
+How many coins are in a fountain in a historic town square at midnight? 100
+How many bubbles are in a glass of homemade fruit-infused sparkling water? 100
+How many strokes of paint are in Van Gogh's "Starry Night"? 100
+How many pages are in the complete works of William Shakespeare? 100
+How many words are in the longest novel ever written? 100
+How many colors are used in a typical Monet painting? 10
+How many brushstrokes are in the Mona Lisa's smile? 10
+How many characters are in Tolstoy's "War and Peace"? 100
+How many sculptures are in the Louvre Museum? 100
+How many lines are in a Shakespearean sonnet? 10
+How many words are in an average haiku? 1
+How many paintings did Picasso create in his lifetime? 100
+How many chapters are in J.R.R. Tolkien's "The Lord of the Rings"? 10
+How many colors are in a typical Andy Warhol painting? 10
+How many words are in the shortest story ever published? 1
+How many sculptures did Michelangelo carve in his career? 100
+How many lines are in a typical stanza of a poem? 10
+How many words are in the average novel? 100
+How many strokes are in a typical calligraphy piece? 10
+How many chapters are in the Harry Potter series? 10
+How many colors are in a typical stained glass window? 10
+How many words are in a typical Shakespearean soliloquy? 10
+How many brushstrokes are in da Vinci's "The Last Supper"? 100
+How many pages are in the world's largest illuminated manuscript? 100
+How many characters are in Homer's "The Iliad"? 100
+How many sculptures are in Central Park, New York City? 100
+How many lines are in a typical limerick? 10
+How many colors are in a typical Renaissance painting palette? 10
+How many words are in the longest poem ever written? 100
+How many brushstrokes are in Botticelli's "The Birth of Venus"? 100
+How many pages are in the Gutenberg Bible? 100
+How many characters are in Dante's "Divine Comedy"? 100
+How many sculptures are in the Vatican Museums? 100
+How many lines are in a typical Shakespearean play? 100
+How many colors are in a typical contemporary abstract painting? 10
+How many words are in a typical children's picture book? 10
+How many strokes of the pen are in a typical manga illustration? 10
+How many pages are in the world's largest pop-up book? 100
+How many characters are in Shakespeare's "Romeo and Juliet"? 10
+How many sculptures are in the British Museum? 100
+How many lines are in a typical stanza of a villanelle? 10
+How many colors are in a typical graffiti mural? 10
+How many words are in the shortest poem to win a Pulitzer Prize? 1
+How many strokes of the brush are in a typical Chinese landscape painting? 100
+How many pages are in the world's largest comic book? 100
+How many characters are in Jane Austen's "Pride and Prejudice"? 10
+How many sculptures are in the Rodin Museum? 100
+How many lines are in a typical stanza of a sonnet? 10
+How many colors are in a typical Impressionist painting? 10
+How many words are in the world's longest palindrome? 100
+How many brushstrokes are in Van Eyck's "The Arnolfini Portrait"? 100
+How many pages are in the world's largest coloring book? 100
+How many countries are members of the United Nations? 100
+How many seats are in the United States House of Representatives? 100
+How many political parties are there in the United Kingdom's Parliament? 10
+How many nuclear-armed countries are there in the world? 10
+How many ambassadors does the United States have stationed around the world? 100
+How many heads of state attended the last G20 Summit? 10
+How many members are there in the European Parliament? 100
+How many seats are in the Russian State Duma? 100
+How many political parties are there in India's Lok Sabha? 10
+How many countries are members of the North Atlantic Treaty Organization (NATO)? 100
+How many seats are in the Chinese National People's Congress? 100
+How many political parties are represented in the Australian Parliament? 10
+How many seats are in the Canadian House of Commons? 100
+How many countries are members of the African Union? 100
+How many political parties are there in the Japanese National Diet? 10
+How many seats are in the German Bundestag? 100
+How many political parties are there in Brazil's National Congress? 10
+How many seats are in the French National Assembly? 100
+How many political parties are there in the South African Parliament? 10
+How many seats are in the Mexican Chamber of Deputies? 100
+How many countries are members of the Association of Southeast Asian Nations (ASEAN)? 10
+How many seats are in the Italian Chamber of Deputies? 100
+How many political parties are represented in the Spanish Congress of Deputies? 10
+How many seats are in the Indian Lok Sabha? 100
+How many countries are members of the Commonwealth of Nations? 100
+How many seats are in the British House of Commons? 100
+How many political parties are there in the Canadian Parliament? 10
+How many seats are in the Japanese House of Representatives? 100
+How many countries are members of the Organization of American States (OAS)? 100
+How many seats are in the Spanish Congress of Deputies? 100
+How many political parties are represented in the German Bundestag? 10
+How many seats are in the Brazilian Chamber of Deputies? 100
+How many countries are members of the Shanghai Cooperation Organization (SCO)? 10
+How many seats are in the South African National Assembly? 100
+How many political parties are there in the French National Assembly? 10
+How many seats are in the Russian Federation Council? 100
+How many countries are members of the Arab League? 100
+How many seats are in the Australian House of Representatives? 100
+How many political parties are represented in the Italian Chamber of Deputies? 10
+How many seats are in the Indian Rajya Sabha? 100
+How many islands are there in the world? 100
+How many mountain peaks are there in the Himalayas? 100
+How many rivers flow into the Amazon River? 100
+How many lakes are there in the Great Lakes region of North America? 10
+How many countries share a border with Russia? 10
+How many islands make up the Maldives archipelago? 100
+How many active volcanoes are there in the Pacific Ring of Fire? 100
+How many deserts are there in Africa? 10
+How many fjords are there in Norway? 100
+How many islands are there in the Philippines? 100
+How many rivers flow into the Mississippi River? 100
+How many countries are located on the Arabian Peninsula? 10
+How many peaks are there in the Alps mountain range? 100
+How many lakes are there in the Canadian province of Ontario? 10
+How many islands are there in Indonesia? 100
+How many rivers flow into the Nile River? 100
+How many countries are landlocked in South America? 10
+How many islands are there in Greece? 100
+How many glaciers are there in Antarctica? 100
+How many islands are there in Japan? 100
+How many rivers flow into the Yangtze River? 100
+How many countries are located in Central America? 10
+How many islands are there in the Caribbean Sea? 100
+How many lakes are there in the state of Minnesota, USA? 10
+How many islands are there in the Pacific Ocean's Polynesian region? 100
+How many rivers flow into the Rhine River? 100
+How many countries are located in the Horn of Africa? 10
+How many islands are there in the Indian Ocean's Seychelles archipelago? 100
+How many lakes are there in the African Rift Valley? 10
+How many islands are there in the Mediterranean Sea? 100
+How many rivers flow into the Danube River? 100
+How many countries are located in the Caucasus region? 10
+How many islands are there in New Zealand? 100
+How many lakes are there in the state of Michigan, USA? 10
+How many islands are there in the South Pacific's Fiji archipelago? 100
+How many rivers flow into the Congo River? 100
+How many countries are located in the Greater Antilles? 10
+How many islands are there in the Atlantic Ocean's Azores archipelago? 100
+How many lakes are there in the Canadian province of Manitoba? 10
+How many islands are there in Australia? 100
+How many languages are spoken in the world today? 100
+How many UNESCO World Heritage Sites are there in Italy? 100
+How many Broadway musicals have won the Tony Award for Best Musical? 10
+How many films have won the Academy Award for Best Picture? 100
+How many countries participate in the Olympic Games? 100
+How many classical music composers are considered "major" in history? 100
+How many museums are there in Paris, France? 100
+How many novels have won the Pulitzer Prize for Fiction? 10
+How many recognized dance styles are there in the world? 10
+How many UNESCO Creative Cities are there in the category of Literature? 100
+How many operas did Wolfgang Amadeus Mozart compose? 10
+How many countries participate in the Eurovision Song Contest? 100
+How many art galleries are there in New York City's Chelsea neighborhood? 100
+How many Nobel Prize categories are there? 10
+How many recognized martial arts are there in the world? 10
+How many UNESCO Intangible Cultural Heritage elements are there in China? 100
+How many Shakespearean plays are considered part of the playwright's canon? 10
+How many countries participate in the FIFA World Cup? 100
+How many recognized music genres are there in the world? 10
+How many UNESCO World Heritage Sites are there in India? 100
+How many Disney animated feature films have been released? 100
+How many languages are included in the United Nations' six official languages? 10
+How many recognized film genres are there in the world? 10
+How many UNESCO Creative Cities are there in the category of Music? 100
+How many episodes are there in the television series "The Simpsons"? 100
+How many recognized dance forms are there in ballet? 10
+How many UNESCO World Heritage Sites are there in Japan? 100
+How many films have won the Palme d'Or at the Cannes Film Festival? 10
+How many recognized literary genres are there in the world? 10
+How many UNESCO Intangible Cultural Heritage elements are there in Japan? 100
+How many albums have won the Grammy Award for Album of the Year? 10
+How many recognized painting styles are there in the art world? 10
+How many UNESCO Creative Cities are there in the category of Film? 100
+How many books are in the Harry Potter series? 10
+How many recognized theater genres are there in the world? 10
+How many UNESCO World Heritage Sites are there in France? 100
+How many albums has Michael Jackson released in his career? 100
+How many recognized fashion styles are there in the world? 10
+How many UNESCO Intangible Cultural Heritage elements are there in Spain? 100
+How many episodes are there in the television series "Friends"? 100
+How many recognized sculpture techniques are there in the art world? 10
+How many UNESCO Creative Cities are there in the category of Crafts and Folk Art? 100
+How many plays did William Shakespeare write? 10
+How many recognized cooking styles are there in the culinary world? 10
+How many UNESCO World Heritage Sites are there in Spain? 100
+How many Academy Awards has Meryl Streep won? 10
+How many recognized photography genres are there in the art world? 10
+How many UNESCO Intangible Cultural Heritage elements are there in Italy? 100
+How many episodes are there in the television series "Breaking Bad"? 100
+How many recognized architectural styles are there in the world? 10
+How many recognized ancient wonders of the world are there? 1
+How many Academy Awards has Katharine Hepburn won? 10
+How many recognized dance forms are there in traditional Indian dance? 10
+How many recognized culinary schools are there in France? 10
+How many recognized colors are there in the rainbow? 1
+How many Grammy Awards has Beyoncé won? 10
+How many recognized martial arts originated in Japan? 10
+How many recognized wine regions are there in California? 10
+How many recognized planets are there in our solar system? 1
+How many Nobel Prizes are awarded annually in each category? 10
+How many recognized musical scales are there in Western music theory? 1
+How many recognized fashion capitals are there in the world? 10
+How many recognized species of big cats are there in the wild? 1
+How many recognized languages are there in the European Union? 10
+How many recognized genres of literature are there? 10
+How many recognized continents are there on Earth? 1
+How many recognized colors are there in a standard pack of crayons? 10
+How many recognized constellations are there in the night sky? 1
+How many recognized species of penguins are there in Antarctica? 1
+How many recognized time zones are there in the world? 10
+How many recognized elements are there in the periodic table? 1
+How many recognized UNESCO World Heritage Sites are there in Egypt? 10
+How many recognized species of sharks are there in the ocean? 1
+How many recognized moons does Jupiter have? 1
+How many recognized styles of architecture are there in ancient Rome? 10
+How many recognized species of whales are there in the ocean? 1
+How many recognized symphonies did Ludwig van Beethoven compose? 10
+How many recognized species of elephants are there in the world? 1
+How many recognized colors are there in a standard pack of M&M's? 10
+How many recognized moons does Saturn have? 1
+How many recognized species of bears are there in the wild? 1
+How many recognized constellations are there in the zodiac? 10
+How many recognized species of butterflies are there in the world? 1
+How many recognized symphonies did Wolfgang Amadeus Mozart compose? 10
+How many recognized species of dolphins are there in the ocean? 1
+How many recognized styles of sushi are there in Japanese cuisine? 10
+How many recognized species of owls are there in the wild? 1
+How many recognized flavors are there in a standard pack of Skittles? 10
+How many recognized moons does Uranus have? 1
+How many recognized species of eagles are there in the world? 1
+How many recognized species of venomous snakes are there in the wild? 1
+How many recognized styles of pasta are there in Italian cuisine? 10
+How many recognized moons does Neptune have? 1
+How many recognized species of jellyfish are there in the ocean? 1
+How many recognized flavors are there in a standard pack of Jelly Belly jelly beans? 10
+How many recognized species of kangaroos are there in Australia? 1
+How many recognized species of crocodiles are there in the wild? 1
+How many recognized styles of tea are there in Chinese culture? 10
+How many recognized moons does Mars have? 1
+How many recognized species of giraffes are there in the world? 1
+How many Ivy League universities are there in the United States? 1
+How many students are enrolled at Harvard University? 10
+How many community colleges are there in California? 100
+How many engineering programs are ranked in the top 10 by U.S. News & World Report? 10
+How many students attend University of California, Berkeley? 10
+How many historically black colleges and universities (HBCUs) are there in the United States? 100
+How many students are enrolled at Stanford University? 10
+How many liberal arts colleges are there in Massachusetts? 100
+How many students attend University of Texas at Austin? 10
+How many public universities are there in the Big Ten Conference? 10
+How many students are enrolled at Massachusetts Institute of Technology (MIT)? 10
+How many community colleges are there in Texas? 100
+How many students attend University of Michigan, Ann Arbor? 10
+How many law schools are accredited by the American Bar Association? 100
+How many students are enrolled at University of Chicago? 10
+How many universities are members of the Association of American Universities (AAU)? 100
+How many students attend University of California, Los Angeles (UCLA)? 10
+How many colleges and universities are there in the State University of New York (SUNY) system? 100
+How many students are enrolled at Columbia University? 10
+How many universities are members of the National Collegiate Athletic Association (NCAA)? 100
+How many students attend Yale University? 10
+How many universities offer online degree programs in the United States? 100
+How many students are enrolled at University of Pennsylvania? 10
+How many colleges and universities are there in the California State University (CSU) system? 100
+How many students attend Princeton University? 10
+How many universities offer medical degrees accredited by the Liaison Committee on Medical Education (LCME)? 100
+How many students are enrolled at University of California, San Diego (UCSD)? 10
+How many universities offer accredited MBA programs in the United States? 100
+How many students attend University of Washington, Seattle? 10
+How many universities offer accredited programs in veterinary medicine? 100
+How many students are enrolled at Duke University? 10
+How many universities offer accredited programs in pharmacy? 100
+How many students attend University of Wisconsin, Madison? 10
+How many universities offer accredited programs in nursing? 100
+How many students are enrolled at Northwestern University? 10
+How many universities offer accredited programs in engineering? 100
+How many students attend University of Florida? 10
+How many universities offer accredited programs in education? 100
+How many students are enrolled at University of Virginia? 10
+How many universities offer accredited programs in computer science? 100
+How many students attend University of North Carolina at Chapel Hill? 10
+How many universities offer accredited programs in psychology? 100
+How many students are enrolled at University of California, Irvine (UCI)? 10
+How many universities offer accredited programs in business administration? 100
+How many students attend University of California, Santa Barbara (UCSB)? 10
+How many universities offer accredited programs in law? 100
+How many students are enrolled at University of California, Davis (UC Davis)? 10
+How many universities offer accredited programs in public health? 100
+How many students attend University of Illinois at Urbana-Champaign? 10
+How many universities offer accredited programs in social work? 100
+How many species of birds are there in the world? 100
+How many petals does the average sunflower have? 1
+How many species of trees are there in the Amazon Rainforest? 100
+How many legs does a spider have? 1
+How many species of butterflies are there in North America? 100
+How many leaves does the average oak tree have? 10
+How many species of whales exist in the oceans? 100
+How many tentacles does an octopus have? 1
+How many species of flowers bloom in the springtime? 100
+How many stripes does the average zebra have? 1
+How many species of ants are there in a typical ant colony? 100
+How many claws does a grizzly bear have on each paw? 1
+How many species of fish inhabit the Great Barrier Reef? 100
+How many legs does a ladybug have? 1
+How many species of fungi are there in a typical forest ecosystem? 100
+How many segments does a caterpillar typically have? 1
+How many species of mammals are found in the African savanna? 100
+How many petals does the average daisy have? 1
+How many species of reptiles inhabit the Amazon River basin? 100
+How many legs does a centipede have? 1
+How many species of trees can be found in a temperate deciduous forest? 100
+How many wings does a dragonfly have? 1
+How many species of mammals are nocturnal? 100
+How many legs does a grasshopper have? 1
+How many species of flowers are pollinated by bees? 100
+How many petals does the average rose have? 1
+How many species of birds migrate long distances each year? 100
+How many legs does a millipede have? 1
+How many species of trees are native to the Pacific Northwest? 100
+How many fins does a goldfish have? 1
+How many species of insects are beneficial to gardeners? 100
+How many petals does the average dandelion have? 1
+How many species of trees are found in the Amazon Rainforest? 100
+How many legs does a praying mantis have? 1
+How many species of flowers are native to California? 100
+How many wings does a bee have? 1
+How many species of butterflies migrate across North America? 100
+How many legs does a butterfly have? 1
+How many species of trees are found in a typical boreal forest? 100
+How many petals does the average tulip have? 1
+How many species of mammals hibernate during the winter? 100
+How many legs does a housefly have? 1
+How many species of birds are found in a typical suburban backyard? 100
+How many legs does a bee have? 1
+How many species of trees are native to the Appalachian Mountains? 100
+How many petals does the average lily have? 1
+How many species of amphibians live in the Amazon Rainforest? 100
+How many legs does a cricket have? 1
+How many species of flowers are native to the Sonoran Desert? 100
+How many petals does the average orchid have? 1
+How many chairs are typically found in a standard living room? 10
+How many keys are usually found on a keychain? 1
+How many books are typically found on a bookshelf? 10
+How many slices of bread are in a typical loaf? 10
+How many teeth does an adult human typically have? 10
+How many wheels does a bicycle usually have? 1
+How many eggs are typically in a dozen? 10
+How many months are in a year? 10
+How many pockets are usually found on a pair of jeans? 1
+How many fingers does the average person have? 10
+How many minutes are in an hour? 10
+How many wheels does a standard car have? 1
+How many sides does a square have? 1
+How many legs does a dog typically have? 1
+How many colors are typically found in a rainbow? 1
+How many days are in a week? 10
+How many quarters are in a dollar? 10
+How many toes does a human typically have? 10
+How many strings does a standard guitar usually have? 1
+How many sides does a triangle have? 1
+How many hours are in a day? 10
+How many continents are there on Earth? 1
+How many legs does a cat typically have? 1
+How many ounces are in a pound? 10
+How many sides does a hexagon have? 1
+How many seasons are there in a year? 1
+How many feet are in a mile? 10
+How many legs does a spider typically have? 1
+How many inches are in a foot? 10
+How many colors are typically in a standard pack of crayons? 10
+How many sides does an octagon have? 1
+How many ears does the average person have? 10
+How many cards are typically in a standard deck of playing cards? 10
+How many sides does a pentagon have? 1
+How many eyes does a human typically have? 10
+How many wheels does a tricycle usually have? 1
+How many legs does a bird typically have? 1
+How many ounces are in a cup? 10
+How many sides does a rectangle have? 1
+How many hands does a human typically have? 10
+How many feathers does a typical bird have? 10
+How many sides does a circle have? 1
+How many pedals does a bicycle typically have? 1
+How many legs does a horse typically have? 1
+How many ounces are in a quart? 10
+How many sides does an oval have? 1
+How many noses does a human typically have? 10
+How many players are typically on a basketball team? 10
+How many sides does a rhombus have? 1
+How many petals does a daisy typically have? 10
+How many visitors does the Eiffel Tower attract annually? 100
+How many hotel rooms are there in Las Vegas? 100
+How many tourists visit the Grand Canyon National Park each year? 100
+How many cruise ships dock at the Port of Miami annually? 100
+How many passengers does the London Eye carry each day? 100
+How many visitors does Times Square in New York City attract on New Year's Eve? 100
+How many travelers visit the Vatican City annually? 100
+How many visitors explore the Colosseum in Rome each year? 100
+How many tourists visit the Great Wall of China annually? 100
+How many hotel rooms are there in Dubai? 100
+How many visitors explore Machu Picchu in Peru annually? 100
+How many tourists visit the Taj Mahal in India annually? 100
+How many travelers visit the Statue of Liberty in New York City annually? 100
+How many visitors does Disneyland in California receive annually? 100
+How many hotel rooms are there in Paris? 100
+How many tourists visit the Louvre Museum in Paris annually? 100
+How many passengers does Dubai International Airport handle annually? 100
+How many visitors explore the Acropolis in Athens annually? 100
+How many tourists visit the Vatican Museums annually? 100
+How many hotel rooms are there in London? 100
+How many visitors does the Metropolitan Museum of Art in New York City attract annually? 100
+How many tourists visit Niagara Falls annually? 100
+How many passengers does Tokyo Disneyland welcome annually? 100
+How many travelers visit Yellowstone National Park annually? 100
+How many hotel rooms are there in Tokyo? 100
+How many tourists visit the Sydney Opera House annually? 100
+How many visitors explore the Alhambra in Spain annually? 100
+How many passengers does Orlando International Airport handle annually? 100
+How many travelers visit the Golden Gate Bridge in San Francisco annually? 100
+How many hotel rooms are there in Bangkok? 100
+How many tourists visit the Vatican Gardens annually? 100
+How many visitors explore the Angkor Wat temple complex in Cambodia annually? 100
+How many passengers does Beijing Capital International Airport handle annually? 100
+How many travelers visit the Tower of London annually? 100
+How many hotel rooms are there in Hong Kong? 100
+How many tourists visit the Great Barrier Reef in Australia annually? 100
+How many visitors explore the British Museum in London annually? 100
+How many passengers does Singapore Changi Airport handle annually? 100
+How many travelers visit the Empire State Building in New York City annually? 100
+How many hotel rooms are there in Barcelona? 100
+How many tourists visit the Anne Frank House in Amsterdam annually? 100
+How many visitors explore the Galápagos Islands in Ecuador annually? 100
+How many passengers does Los Angeles International Airport handle annually? 100
+How many travelers visit the Vatican Library annually? 100
+How many hotel rooms are there in Singapore? 100
+How many tourists visit the Louvre Abu Dhabi annually? 100
+How many visitors explore the Tower Bridge in London annually? 100
+How many passengers does Hong Kong International Airport handle annually? 100
+How many travelers visit the Sydney Harbour Bridge annually? 100
+How many hotel rooms are there in Istanbul? 100
+How many tourists visit the Vatican Pinacoteca annually? 100
+How many visitors explore the Statue of Liberty Museum in New York City annually? 100
+How many passengers does Heathrow Airport in London handle annually? 100
+How many travelers visit the Christ the Redeemer statue in Rio de Janeiro annually? 100
+How many hotel rooms are there in Amsterdam? 100
+How many tourists visit the Vatican Necropolis annually? 100
+How many visitors explore the Great Smoky Mountains National Park annually? 100
+How many passengers does Charles de Gaulle Airport in Paris handle annually? 100
+How many travelers visit the Sagrada Família in Barcelona annually? 100
+How many hotel rooms are there in Sydney? 100
+How many episodes of "Friends" were aired during its entire run? 100
+How many subscribers does the popular YouTube channel "PewDiePie" have? 100
+How many Grammy Awards has Taylor Swift won in her career? 10
+How many seasons of "Game of Thrones" were produced? 10
+How many views does the most-watched music video on YouTube have? 100
+How many Marvel Cinematic Universe movies have been released to date? 10
+How many followers does the official Instagram account of Kylie Jenner have? 100
+How many Academy Awards has Leonardo DiCaprio won? 1
+How many subscribers does the Netflix streaming service have worldwide? 100
+How many seasons of "The Simpsons" have been aired? 100
+How many albums has Beyoncé released in her career? 10
+How many followers does the official Twitter account of Barack Obama have? 100
+How many episodes of "The Office" were produced in total? 100
+How many Oscars has Meryl Streep been nominated for? 1
+How many subscribers does the popular Twitch streamer "Ninja" have? 100
+How many seasons of "Breaking Bad" were produced? 10
+How many followers does the official Facebook page of Cristiano Ronaldo have? 100
+How many episodes of "Stranger Things" have been released so far? 100
+How many albums has Drake released in his career? 10
+How many followers does the official TikTok account of Charli D'Amelio have? 100
+How many episodes of "Grey's Anatomy" have been aired? 100
+How many Oscars has Tom Hanks won in his career? 1
+How many subscribers does the popular podcast "The Joe Rogan Experience" have? 100
+How many seasons of "Stranger Things" are planned in total? 10
+How many albums has Rihanna released in her career? 10
+How many followers does the official Instagram account of Dwayne "The Rock" Johnson have? 100
+How many episodes of "The Big Bang Theory" were produced in total? 100
+How many Oscars has Jennifer Lawrence won in her career? 1
+How many subscribers does the YouTube channel "Dude Perfect" have? 100
+How many seasons of "Friends" were originally planned by the creators? 10
+How many albums has Kanye West released in his career? 10
+How many followers does the official Twitter account of Ellen DeGeneres have? 100
+How many episodes of "Breaking Bad" are in the top 100 IMDb-rated TV episodes? 1
+How many Oscars has Brad Pitt won in his career? 1
+How many subscribers does the YouTube channel "MrBeast" have? 100
+How many seasons of "The Office" were originally planned by the creators? 10
+How many albums has Adele released in her career? 10
+How many followers does the official Facebook page of Justin Bieber have? 100
+How many episodes of "The Simpsons" are in the top 100 IMDb-rated TV episodes? 1
+How many Oscars has Angelina Jolie won in her career? 1
+How many subscribers does the YouTube channel "5-Minute Crafts" have? 100
+How many seasons of "Grey's Anatomy" are planned in total? 10
+How many albums has Ed Sheeran released in his career? 10
+How many followers does the official Instagram account of Ariana Grande have? 100
+How many episodes of "Friends" are in the top 100 IMDb-rated TV episodes? 1
+How many Oscars has Emma Stone won in her career? 1
+How many subscribers does the YouTube channel "Markiplier" have? 100
+How many seasons of "The Walking Dead" were produced? 10
+How many albums has Justin Bieber released in his career? 10
+How many followers does the official Twitter account of Katy Perry have? 100
+How many episodes of "The Office" are in the top 100 IMDb-rated TV episodes? 1
+How many Oscars has Scarlett Johansson been nominated for? 1
+How many subscribers does the YouTube channel "WWE" have? 100
+How many seasons of "The Walking Dead" are planned in total? 10
+How many albums has Lady Gaga released in her career? 10
+How many followers does the official Instagram account of Selena Gomez have? 100
+How many episodes of "Game of Thrones" are in the top 100 IMDb-rated TV episodes? 1
+How many Oscars has Hugh Jackman been nominated for? 1
+How many subscribers does the YouTube channel "Shane Dawson" have? 100
+How many seasons of "Breaking Bad" are in the top 100 IMDb-rated TV series? 1
+How many letters are there in the English alphabet? 1
+How many commonly used prepositions are there in English? 10
+How many irregular verbs are there in the English language? 100
+How many vowels are there in the English alphabet? 1
+How many consonants are there in the English alphabet? 1
+How many synonyms does the word "happy" have in English? 10
+How many articles are there in the English language? 1
+How many tenses are there in English grammar? 10
+How many commonly used idioms are there in the English language? 100
+How many letters are there in the longest English word? 10
+How many syllables does the word "communication" have? 10
+How many irregular plural forms exist in English? 10
+How many adjectives are there in the English language? 100
+How many adverbs are there in English grammar? 10
+How many commonly used conjunctions are there in English? 10
+How many articles are there in the English language? 1
+How many pronouns are there in English grammar? 10
+How many phrasal verbs are there in the English language? 100
+How many letters are there in the shortest English word? 1
+How many syllables does the word "opportunity" have? 10
+How many irregular past tense forms exist in English? 10
+How many interjections are there in the English language? 10
+How many letters are there in the word "antidisestablishmentarianism"? 10
+How many syllables does the word "environmental" have? 10
+How many common prefixes are there in English vocabulary? 10
+How many common suffixes are there in English vocabulary? 10
+How many silent letters are there in the English language? 10
+How many letters are there in the word "supercalifragilisticexpialidocious"? 10
+How many syllables does the word "extraordinary" have? 10
+How many contractions are there in English grammar? 10
+How many letters are there in the word "onomatopoeia"? 10
+How many syllables does the word "television" have? 10
+How many homophones are there in the English language? 10
+How many letters are there in the word "hippopotomonstrosesquippedaliophobia"? 10
+How many syllables does the word "international" have? 10
+How many compound words are there in the English language? 100
+How many letters are there in the word "onomatopoeic"? 10
+How many syllables does the word "accommodation" have? 10
+How many homographs are there in the English language? 10
+How many letters are there in the word "floccinaucinihilipilification"? 10
+How many syllables does the word "personification" have? 10
+How many compound adjectives are there in the English language? 100
+How many letters are there in the word "sesquipedalian"? 10
+How many syllables does the word "independence" have? 10
+How many homonyms are there in the English language? 10
+How many letters are there in the word "pneumonoultramicroscopicsilicovolcanoconiosis"? 10
+How many syllables does the word "catastrophic" have? 10
+How many compound nouns are there in the English language? 100
+How many letters are there in the word "uncharacteristically"? 10
+How many syllables does the word "disestablishmentarianism" have? 10
+How many daily active users does Facebook have in North America? 100
+How many new tweets are posted on Twitter per second? 100
+How many monthly active users does Instagram have in Europe? 100
+How many photos are uploaded to Snapchat every minute globally? 100
+How many daily active users does TikTok have in Asia? 100
+How many hours of video content are uploaded to YouTube every hour worldwide? 100
+How many monthly active users does LinkedIn have in Australia? 100
+How many pins are saved on Pinterest every day in South America? 100
+How many monthly active users does Reddit have in Africa? 100
+How many messages are sent on WhatsApp every minute in Asia? 100
+How many daily active users does Snapchat have in Europe? 100
+How many hours of video content are watched on Facebook every day in North America? 100
+How many photos are uploaded to Instagram every minute in South America? 100
+How many likes are given on Facebook posts every second globally? 100
+How many daily active users does Twitter have in Africa? 100
+How many views do Instagram Stories receive every day in Europe? 100
+How many comments are made on YouTube videos every hour worldwide? 100
+How many monthly active users does Snapchat have in North America? 100
+How many pins are created on Pinterest every hour in Asia? 100
+How many daily active users does LinkedIn have in South America? 100
+How many tweets are sent on Twitter every minute in Africa? 100
+How many hours of video content are uploaded to YouTube every day in Europe? 100
+How many photos are shared on Instagram every hour in North America? 100
+How many likes are given on Facebook posts every minute in South America? 100
+How many messages are sent on WhatsApp every day in Asia? 100
+How many pins are saved on Pinterest every minute in Africa? 100
+How many monthly active users does Reddit have in Europe? 100
+How many videos are watched on TikTok every day in North America? 100
+How many tweets are sent on Twitter every day in South America? 100
+How many photos are uploaded to Snapchat every hour in Asia? 100
+How many likes are given on Instagram posts every second in Europe? 100
+How many messages are sent on Facebook Messenger every minute in Africa? 100
+How many pins are created on Pinterest every day in North America? 100
+How many comments are made on YouTube videos every minute in South America? 100
+How many daily active users does YouTube have in Europe? 100
+How many photos are shared on Instagram every day in Asia? 100
+How many tweets are sent on Twitter every hour in North America? 100
+How many videos are uploaded to Facebook every minute in Europe? 100
+How many messages are sent on Snapchat every day in South America? 100
+How many pins are saved on Pinterest every second in Asia? 100
+How many daily active users does WhatsApp have in North America? 100
+How many photos are uploaded to Instagram every minute in Europe? 100
+How many likes are given on TikTok videos every hour in South America? 100
+How many messages are sent on Twitter every day in Asia? 100
+How many pins are created on Pinterest every second in North America? 100
+How many views do Facebook videos receive every day in Europe? 100
+How many photos are shared on Snapchat every day in North America? 100
+How many tweets are sent on Twitter every second in South America? 100
+How many videos are uploaded to YouTube every minute in Asia? 100
+How many pins are saved on Pinterest every hour in North America? 100
+How many daily active users does Instagram have in Africa? 100
+How many messages are sent on Facebook Messenger every day in Europe? 100
+How many photos are uploaded to Instagram every day in South America? 100
+How many likes are given on Facebook posts every hour in Asia? 100
+How many tweets are sent on Twitter every minute in Asia? 100
+How many videos are watched on YouTube every day in North America? 100
+How many pins are created on Pinterest every day in South America? 100
+How many daily active users does WhatsApp have in Europe? 100
+How many messages are sent on Snapchat every minute in North America? 100
+How many photos are uploaded to Instagram every hour in Africa? 100
+How many likes are given on Instagram posts every minute in South America? 100
+How many tweets are sent on Twitter every day in North America? (Answer: 100+
+How many states are there in the United States? 10
+How many national parks are there in the United States? 10
+How many time zones does the contiguous United States span? 1
+How many recognized Native American tribes are there in the United States? 10
+How many major professional sports leagues are based in the United States? 1
+How many recognized mountain ranges are there in the United States? 10
+How many recognized national monuments are there in the United States? 10
+How many recognized UNESCO World Heritage Sites are there in the United States? 10
+How many recognized national forests are there in the United States? 10
+How many recognized national wildlife refuges are there in the United States? 10
+How many species of birds are there worldwide? 10
+How many stripes does the average zebra have? 10
+How many spots does the average leopard have? 10
+How many legs does the average spider have? 10
+How many eggs does the average sea turtle lay in a nesting season? 100
+How many teeth does the average adult lion have? 10
+How many scales does the average snake have? 100
+How many tentacles does the average octopus have? 10
+How many whiskers does the average domestic cat have? 10
+How many eggs does the average crocodile lay in a clutch? 100
+How many stripes does the average tiger have? 10
+How many legs does the average centipede have? 100
+How many feathers does the average bald eagle have? 100
+How many fins does the average dolphin have? 10
+How many spots does the average cheetah have? 10
+How many teeth does the average shark have? 100
+How many claws does the average bear have? 10
+How many scales does the average fish have? 100
+How many legs does the average tarantula have? 10
+How many feathers does the average peacock have? 100
+How many fins does the average fish have? 10
+How many stripes does the average bee have? 10
+How many spots does the average ladybug have? 10
+How many eggs does the average frog lay in a spawning event? 100
+How many legs does the average grasshopper have? 10
+How many scales does the average lizard have? 100
+How many tentacles does the average jellyfish have? 10
+How many feathers does the average ostrich have? 100
+How many fins does the average shark have? 10
+How many stripes does the average bumblebee have? 10
+How many spots does the average leopard gecko have? 10
+How many eggs does the average sea turtle lay in a clutch? 100
+How many legs does the average millipede have? 100
+How many scales does the average alligator have? 100
+How many tentacles does the average squid have? 10
+How many feathers does the average swan have? 100
+How many fins does the average whale have? 10
+How many stripes does the average zebra shark have? 10
+How many spots does the average jaguar have? 10
+How many eggs does the average salmon lay in a spawning event? 100
+How many legs does the average beetle have? 10
+How many scales does the average chameleon have? 100
+How many tentacles does the average cuttlefish have? 10
+How many feathers does the average bald eagle have? 100
+How many fins does the average dolphin have? 10
+How many stripes does the average tiger shark have? 10
+How many spots does the average giraffe have? 10
+How many eggs does the average sea turtle lay in a nesting season? 100
+How many legs does the average spider have? 10
+How many scales does the average snake have? 100
+How many tentacles does the average octopus have? 10
+How many whiskers does the average domestic cat have? 10
+How many eggs does the average crocodile lay in a clutch? 100
+How many stripes does the average tiger have? 10
+How many legs does the average centipede have? 100
+How many feathers does the average bald eagle have? 100
+How many fins does the average dolphin have? 10
+How many spots does the average cheetah have? 10
+How many teeth does the average shark have? 100
+How many claws does the average bear have? 10
+How many scales does the average fish have? 100
+How many legs does the average tarantula have? 10
+How many feathers does the average peacock have? 100
+How many fins does the average fish have? 10
+How many stripes does the average bee have? 10
+How many spots does the average ladybug have? 10
+How many eggs does the average frog lay in a spawning event? 100
+How many legs does the average grasshopper have? 10
+How many scales does the average lizard have? 100
+How many tentacles does the average jellyfish have? 10
+How many feathers does the average ostrich have? 100
+How many fins does the average shark have? 10
+How many stripes does the average bumblebee have? 10
+How many spots does the average leopard gecko have? 10
+How many eggs does the average sea turtle lay in a clutch? 100
+How many legs does the average millipede have? 100
+How many scales does the average alligator have? 100
+How many tentacles does the average squid have? 10
+How many feathers does the average swan have? 100
+How many fins does the average whale have? 10
+How many stripes does the average zebra shark have? 10
+How many spots does the average jaguar have? 10
+How many eggs does the average salmon lay in a spawning event? 100
+How many legs does the average beetle have? 10
+How many scales does the average chameleon have? 100
+How many tentacles does the average cuttlefish have? 10
+How many feathers does the average bald eagle have? 100
+How many stripes does the average tiger shark have? 10
+How many spots does the average giraffe have? 10
+How many eggs does the average sea turtle lay in a nesting season? 100
+How many legs does the average spider have? 10
+How many scales does the average snake have? 100
+How many tentacles does the average octopus have? 10
+How many whiskers does the average domestic cat have? 10
+How many eggs does the average crocodile lay in a clutch? 100
+How many stripes does the average tiger have? 10
+How many legs does the average centipede have? 100
+How many feathers does the average bald eagle have? 100
+How many pyramids were built in ancient Egypt? 10
+How many soldiers fought in the Battle of Gettysburg during the American Civil War? 10
+How many years did the Roman Empire last? 100
+How many soldiers were involved in the D-Day invasion of Normandy during World War II? 100
+How many years ago was the Great Wall of China constructed? 100
+How many people lived in the Roman Empire at its peak? 100
+How many states were in the original Thirteen Colonies of America? 10
+How many years did the Hundred Years' War last? 100
+How many people were estimated to be present at the Sermon on the Mount? 100
+How many years did the Ottoman Empire last? 100
+How many soldiers were involved in the Battle of Waterloo? 10
+How many years did it take to build the Taj Mahal? 10
+How many people were estimated to have witnessed the fall of the Roman Empire? 100
+How many years ago did the Mayan civilization flourish? 100
+How many people were present at the signing of the Magna Carta? 10
+How many years did the Viking Age last? 100
+How many soldiers were involved in the Battle of Stalingrad during World War II? 100
+How many years ago did the Greek civilization reach its peak? 100
+How many people lived in the world during the Middle Ages? 100
+How many years did it take to construct the Great Pyramid of Giza? 100
+How many soldiers were involved in the Battle of Marathon? 10
+How many years did it take to complete the construction of the Colosseum in Rome? 100
+How many people lived in the Byzantine Empire at its height? 100
+How many years did the American Revolutionary War last? 10
+How many soldiers were involved in the Battle of Hastings? 10
+How many years did it take to build Machu Picchu? 10
+How many people lived in the city of Rome during the reign of Julius Caesar? 100
+How many years did the Crusades last? 100
+How many soldiers were involved in the Battle of Thermopylae? 10
+How many years did it take to build the Forbidden City in China? 100
+How many people lived in the city of Constantinople during the Byzantine Empire? 100
+How many years did it take to construct Stonehenge? 100
+How many soldiers were involved in the Battle of Agincourt during the Hundred Years' War? 10
+How many years did it take to build the Parthenon in Athens? 100
+How many people lived in the city of Tenochtitlan during the height of the Aztec Empire? 100
+How many years did it take to complete the construction of the Great Wall of China? 100
+How many soldiers were involved in the Siege of Vienna? 10
+How many years did it take to build the city of Petra? 100
+How many people lived in the city of Babylon during the reign of Hammurabi? 100
+How many years did it take to construct the city of Carthage? 100
+How many soldiers were involved in the Battle of Cannae during the Second Punic War? 10
+How many years did it take to build the city of Pompeii? 100
+How many people lived in the city of Athens during the Golden Age of Greece? 100
+How many years did it take to construct the city of Alexandria? 100
+How many soldiers were involved in the Battle of Austerlitz? 10
+How many years did it take to build the city of Istanbul? 100
+How many people lived in the city of Rome during the reign of Augustus? 100
+How many years did it take to construct the city of Machu Picchu? 100
+How many soldiers were involved in the Battle of Verdun during World War I? 100
+How many years did it take to build the city of Angkor Wat? 100
+How many people lived in the city of Rome during the reign of Nero? 100
+How many years did it take to construct the city of Mohenjo-Daro? 100
+How many soldiers were involved in the Battle of the Bulge during World War II? 100
+How many years did it take to build the city of Tikal? 100
+How many people lived in the city of Rome during the reign of Constantine the Great? 100
+How many years did it take to construct the city of Persepolis? 100
+How many soldiers were involved in the Battle of Tours? 10
+How many years did it take to build the city of Teotihuacan? 100
+How many people lived in the city of Rome during the reign of Julius Caesar? 100
+How many years did it take to construct the city of Babylon? 100
+How many soldiers were involved in the Battle of Antietam during the American Civil War? 10
+How many years did it take to build the city of Chichen Itza? 100
+How many people lived in the city of Rome during the reign of Marcus Aurelius? 100
+How many years did it take to construct the city of Nineveh? 100
+How many soldiers were involved in the Battle of Marathon during the Persian Wars? 10
+How many years did it take to build the city of Knossos? 100
+How many people lived in the city of Rome during the reign of Trajan? 100
+How many years did it take to construct the city of Ur? 100
+How many soldiers were involved in the Battle of Tours during the Muslim conquests of Europe? 10
+How many years did it take to build the city of Ephesus? 100
+How many people lived in the city of Rome during the reign of Hadrian? 100
+How many years did it take to construct the city of Troy? 100
+How many soldiers were involved in the Battle of Saratoga during the American Revolutionary War? 10
+How many years did it take to build the city of Pergamon? 100
+How many people lived in the city of Rome during the reign of Diocletian? 100
+How many years did it take to construct the city of Mycenae? 100
+How many soldiers were involved in the Battle of Actium during the Roman Civil Wars? 10
+How many years did it take to build the city of Memphis? 100
+How many people lived in the city of Rome during the reign of Caligula? 100
+How many years did it take to construct the city of Ur? 100
+How many soldiers were involved in the Battle of Gaugamela during the conquests of Alexander the Great? 10
+How many years did it take to build the city of Jericho? 100
+How many people lived in the city of Rome during the reign of Augustus? 100
+How many years did it take to construct the city of Sumer? 100
+How many soldiers were involved in the Battle of Culloden during the Jacobite Rising? 10
+How many years did it take to build the city of Palenque? 100
+How many people lived in the city of Rome during the reign of Tiberius? 100
+How many years did it take to construct the city of Babylon? 100
+How many soldiers were involved in the Battle of Cannae during the Second Punic War? 10
+How many years did it take to build the city of Petra? 100
+How many people lived in the city of Rome during the reign of Vespasian? 100
+How many years did it take to construct the city of Carthage? 100
+How many soldiers were involved in the Battle of Thermopylae during the Persian Wars? 10
+How many years did it take to build the city of Tikal? 100
+How many people lived in the city of Rome during the reign of Nero? 100
+How many years did it take to construct the city of Teotihuacan? 100
+How many soldiers were involved in the Battle of Austerlitz during the Napoleonic Wars? 10
+How many years did it take to build the city of Angkor Wat? 100
+How many people lived in the city of Rome during the reign of Trajan? 100
+How many years did it take to construct the city of Persepolis? 100
+How many tablespoons are in a cup? 10
+How many ounces are in a pound? 10
+How many minutes does it take to hard-boil an egg? 1
+How many teaspoons of salt are typically used in a bread recipe? 1
+How many cloves of garlic are in a bulb? 1
+How many grams of sugar are in a standard chocolate chip cookie? 10
+How many cups of flour are in a standard bread recipe? 10
+How many tablespoons of butter are in a stick? 10
+How many minutes does it take to bake a pizza at 400°F? 1
+How many tablespoons of oil are typically used in a stir-fry? 1
+How many slices of bread are in a standard loaf? 10
+How many minutes does it take to cook rice on the stovetop? 10
+How many cups of water are needed to cook one cup of rice? 10
+How many minutes does it take to bake brownies? 10
+How many eggs are typically used in a quiche recipe? 10
+How many tablespoons of sugar are in a can of soda? 10
+How many teaspoons of baking powder are in a tablespoon? 1
+How many cups of water are needed to make a standard pot of coffee? 10
+How many minutes does it take to grill a steak to medium-rare? 1
+How many tablespoons of tomato paste are typically used in a pasta sauce? 1
+How many cups of milk are needed to make a standard box of macaroni and cheese? 10
+How many tablespoons of vinegar are typically used in a salad dressing recipe? 1
+How many minutes does it take to bake a batch of chocolate chip cookies? 10
+How many teaspoons of vanilla extract are in a tablespoon? 1
+How many cups of water are needed to boil a dozen eggs? 10
+How many minutes does it take to cook pasta al dente? 10
+How many tablespoons of lemon juice are typically used in a lemonade recipe? 1
+How many cups of broth are needed to make a pot of chicken soup? 10
+How many minutes does it take to roast a chicken at 350°F? 10
+How many teaspoons of cinnamon are typically used in a cinnamon roll recipe? 1
+How many cups of sugar are in a pound? 10
+How many minutes does it take to cook pancakes on a griddle? 10
+How many tablespoons of mayonnaise are typically used in a tuna salad recipe? 1
+How many cups of flour are needed to make a batch of pancakes? 10
+How many minutes does it take to grill a hamburger? 10
+How many teaspoons of olive oil are in a tablespoon? 1
+How many cups of cheese are needed to make a lasagna? 10
+How many minutes does it take to bake a loaf of bread? 10
+How many teaspoons of chili powder are typically used in a chili recipe? 1
+How many cups of vegetable broth are needed to make a pot of vegetable soup? 10
+How many minutes does it take to cook scrambled eggs? 1
+How many tablespoons of soy sauce are typically used in a stir-fry? 1
+How many cups of oats are in a standard canister? 10
+How many minutes does it take to cook bacon in the oven? 10
+How many teaspoons of ginger are typically used in a gingerbread cookie recipe? 1
+How many cups of water are needed to make a pot of tea? 10
+How many minutes does it take to cook a pot of quinoa? 10
+How many tablespoons of honey are typically used in a honey mustard dressing recipe? 1
+How many cups of frosting are needed to decorate a standard cake? 10
+How many minutes does it take to broil a salmon fillet? 10
+How many questions are typically on a multiple-choice test? 10
+How many essays are usually required for a final exam in a college course? 10
+How many minutes does it take to complete a standard SAT exam section? 1
+How many students are typically in a classroom during a final exam? 10
+How many pages are typically in a high school final exam packet? 10
+How many minutes are usually allocated for a short-answer question on a test? 1
+How many students are typically in a lecture hall during a midterm exam? 10
+How many hours does it typically take to complete a comprehensive final exam in a college course? 10
+How many questions are typically in a standardized IQ test? 10
+How many words are usually required for an essay question on a final exam? 10
+How many minutes does it typically take to complete a spelling test? 1
+How many students are typically in a gymnasium during a state standardized test? 10
+How many hours of studying are typically recommended for a final exam in a university course? 10
+How many questions are typically in a driving theory test? 10
+How many minutes does it typically take to complete a math problem on an exam? 1
+How many students are typically in a library during midterms? 10
+How many hours does it typically take to complete a bar exam? 10
+How many questions are typically in a standardized medical exam? 10
+How many minutes does it typically take to complete a true/false question on a test? 1
+How many students are typically in a computer lab during a final exam? 10
+How many hours does it typically take to complete a professional certification exam? 10
+How many questions are typically in a driving practical test? 10
+How many minutes does it typically take to complete a reading comprehension question on an exam? 1
+How many students are typically in an auditorium during a standardized state test? 10
+How many hours does it typically take to complete a certification exam for a software program? 10
+How many questions are typically in a foreign language proficiency test? 10
+How many minutes does it typically take to complete a fill-in-the-blank question on a test? 1
+How many students are typically in a cafeteria during a final exam? 10
+How many hours does it typically take to complete a teacher certification exam? 10
+How many questions are typically in a standardized test for nursing? 10
+How many minutes does it typically take to complete a matching question on an exam? 1
+How many students are typically in a lecture hall during a mid-semester exam? 10
+How many hours does it typically take to complete a language proficiency exam? 10
+How many questions are typically in a professional certification exam for accounting? 10
+How many minutes does it typically take to complete a diagram question on a test? 1
+How many students are typically in a school gymnasium during a standardized test? 10
+How many hours does it typically take to complete a real estate licensing exam? 10
+How many questions are typically in a standardized test for aviation? 10
+How many minutes does it typically take to complete a critical thinking question on an exam? 1
+How many students are typically in a study hall during a final exam period? 10
+How many hours does it typically take to complete a standardized test for law enforcement? 10
+How many questions are typically in a standardized test for engineering? 10
+How many minutes does it typically take to complete a problem-solving question on an exam? 1
+How many students are typically in a classroom during a midterm review session? 10
+How many hours does it typically take to complete a standardized test for project management? 10
+How many questions are typically in a standardized test for information technology? 10
+How many minutes does it typically take to complete a graph interpretation question on an exam? 1
+How many students are typically in a computer lab during a midterm exam? 10
+How many hours does it typically take to complete a standardized test for healthcare administration? 10
+How many questions are typically in a standardized test for social work? 10

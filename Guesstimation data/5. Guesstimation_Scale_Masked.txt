@@ -1,0 +1,1536 @@
+How many cups of coffee does a person typically drink in a week? <masked> Medium
+How many books does an individual usually read in a year? <masked> Medium
+How many languages can someone typically speak? <masked> Medium
+How many hours does a person typically spend on social media per day? <masked> Small
+How many miles does someone typically walk in a day? <masked> Small
+How many emails does a person typically receive per day? <masked> Medium
+How many push-ups can someone typically do in one minute? <masked> Medium
+How many hours of sleep does an individual typically get per night? <masked> Small
+How many texts does someone typically send in a day? <masked> Medium
+How many steps does an individual typically take in a day? <masked> Medium
+How many Facebook friends does a person typically have? <masked> Large
+How many calories does someone typically consume in a day? <masked> Large
+How many hours does someone typically spend watching TV per day? <masked> Medium
+How many selfies does a person typically take in a week? <masked> Medium
+How many hours does someone typically spend commuting per week? <masked> Medium
+How many times does someone typically check their phone per day? <masked> Medium
+How many pets does an individual typically own? <masked> Medium
+How many photos does someone typically take in a month? <masked> Medium
+How many hours does someone typically spend exercising per week? <masked> Medium
+How many movies does someone typically watch in a month? <masked> Medium
+How many pairs of shoes does an individual typically own? <masked> Medium
+How many times does someone typically eat out in a week? <masked> Medium
+How many hours does someone typically spend reading per week? <masked> Medium
+How many vacations does an individual typically take in a year? <masked> Small
+How many household chores does someone typically do in a week? <masked> Medium
+How many text messages does someone typically send in a month? <masked> Medium
+How many cups of water does an individual typically drink in a day? <masked> Medium
+How many hours does someone typically spend on their phone per day? <masked> Small
+How many friends does someone typically have on social media? <masked> Large
+How many hours does someone typically spend in meetings per week? <masked> Medium
+How many hours does someone typically spend cooking per week? <masked> Medium
+How many songs does someone typically have on their playlist? <masked> Large
+How many times does someone typically go grocery shopping in a month? <masked> Medium
+How many times does someone typically eat dessert in a week? <masked> Medium
+How many hours does someone typically spend listening to music per day? <masked> Small
+How many apps does someone typically have on their phone? <masked> Large
+How many hours does someone typically spend on hobbies per week? <masked> Medium
+How many times does someone typically go to the gym in a week? <masked> Medium
+How many pieces of fruit does an individual typically eat in a day? <masked> Medium
+How many unread emails does someone typically have in their inbox? <masked> Medium
+How many hours does someone typically spend on homework/study per week? <masked> Medium
+How many clothes does an individual typically own? <masked> Large
+How many hours does someone typically spend watching YouTube per day? <masked> Medium
+How many friends does someone typically have in real life? <masked> Medium
+How many hours does someone typically spend playing video games per week? <masked> Medium
+How many social media accounts does someone typically have? <masked> Medium
+How many hours does someone typically spend on housework per week? <masked> Medium
+How many people does someone typically interact with in a day? <masked> Medium
+How many times does someone typically eat fast food in a week? <masked> Medium
+How many hours does someone typically spend in traffic per week? <masked> Medium
+How many photos does someone typically post on social media in a month? <masked> Medium
+How many hours does someone typically spend on homework/study per day? <masked> Small
+How many unread text messages does someone typically have on their phone? <masked> Medium
+How many hours does someone typically spend at work per day? <masked> Small
+How many emails does someone typically send in a day? <masked> Medium
+How many hours does someone typically spend on household chores per week? <masked> Medium
+How many hours does someone typically spend on their computer per day? <masked> Small
+How many hours does someone typically spend in meetings per day? <masked> Small
+How many books does an individual typically own? <masked> Large
+How many hours does someone typically spend on personal grooming per week? <masked> Medium
+How many times does someone typically go out to eat in a month? <masked> Medium
+How many hours does someone typically spend on social media per week? <masked> Medium
+How many phone calls does someone typically make in a day? <masked> Medium
+How many hours does someone typically spend on self-care activities per week? <masked> Medium
+How many times does someone typically check the weather forecast in a day? <masked> Medium
+How many hours does someone typically spend watching TV per week? <masked> Medium
+How many grains of sand are there on a beach? <masked> Large
+How many stars are there in the Milky Way galaxy? <masked> Large
+How many drops of water are there in an Olympic-sized swimming pool? <masked> Large
+How many blades of grass are there on a football field? <masked> Large
+How many atoms are there in a human body? <masked> Large
+How many leaves are there on an average-sized tree? <masked> Medium
+How many raindrops fall during a typical rainfall? <masked> Large
+How many breaths does a person take in a day? <masked> Medium
+How many grains of rice are in a 5 kg bag? <masked> Medium
+How many cells are there in the human brain? <masked> Large
+How many particles are there in a speck of dust? <masked> Large
+How many drops of rain fall in a year? <masked> Large
+How many hairs are there on a human head? <masked> Medium
+How many gallons of water are there in the Pacific Ocean? <masked> Large
+How many atoms are there in a grain of sand? <masked> Large
+How many stars are there in the observable universe? <masked> Large
+How many molecules are there in a breath of air? <masked> Large
+How many snowflakes fall during a typical snowstorm? <masked> Large
+How many grains of salt are in a teaspoon? <masked> Medium
+How many raindrops fall in a typical thunderstorm? <masked> Large
+How many cells are there in the human body? <masked> Large
+How many blades of grass are there in a meadow? <masked> Large
+How many pixels are there on a 4K resolution screen? <masked> Large
+How many atoms are there in a drop of water? <masked> Large
+How many particles are there in a ray of sunlight? <masked> Large
+How many bubbles are there in a bubble bath? <masked> Large
+How many photons are emitted by a lightbulb in a day? <masked> Large
+How many sand dunes are there in a desert? <masked> Large
+How many droplets are in a foggy morning mist? <masked> Large
+How many pebbles are on a riverbank? <masked> Large
+How many particles are there in a grain of pollen? <masked> Large
+How many bubbles are in a glass of soda? <masked> Large
+How many molecules are there in a drop of blood? <masked> Large
+How many stars are there in the Andromeda galaxy? <masked> Large
+How many blades of wheat are in a field? <masked> Large
+How many atoms are there in a single breath exhaled by a whale? <masked> Large
+How many raindrops fall in a month in a rainforest? <masked> Large
+How many bubbles are in a boiling pot of water? <masked> Large
+How many grains of pollen are there in a flower? <masked> Large
+How many drops of dew are on a spider's web in the morning? <masked> Large
+How many particles are there in a puff of smoke from a chimney? <masked> Large
+How many grains of sugar are in a cup? <masked> Large
+How many snowflakes fall in a blizzard? <masked> Large
+How many photons are there in a sunbeam? <masked> Large
+How many raindrops fall in a year in a temperate climate? <masked> Large
+How many sand grains are there in a sandcastle? <masked> Large
+How many drops of water are in a cloud? <masked> Large
+How many atoms are there in a breath of wind? <masked> Large
+How many bubbles are in a glass of champagne? <masked> Large
+How many particles are there in a misty fog? <masked> Large
+How many apples are in a typical grocery store display? <masked> Large
+How many pencils are typically in a pack? <masked> Medium
+How many breaths does a person take in an hour? <masked> Large
+How many teaspoons of sugar are in a can of soda? <masked> Medium
+How many blades of grass are in a square foot of lawn? <masked> Large
+How many cookies are in a standard package? <masked> Medium
+How many drops of rain fall during a light shower? <masked> Large
+How many pages are in a typical novel? <masked> Large
+How many slices of bread are in a loaf? <masked> Medium
+How many stars are visible on a clear night in a city? <masked> Medium
+How many grains of sand are in a sandcastle? <masked> Large
+How many minutes does it take to boil an egg? <masked> Small
+How many students are in an average classroom? <masked> Medium
+How many petals does a typical daisy have? <masked> Small
+How many photos are typically taken on a family vacation? <masked> Large
+How many bricks are in a typical brick wall? <masked> Large
+How many eggs are in a dozen? <masked> Medium
+How many people are usually in a line at the grocery store checkout? <masked> Medium
+How many slices of pizza are in a large pie? <masked> Medium
+How many leaves fall from a tree in autumn? <masked> Large
+How many grapes are typically in a bunch? <masked> Medium
+How many hours does a person typically sleep in a night? <masked> Small
+How many seeds are in a typical apple? <masked> Medium
+How many ants are in a typical ant colony? <masked> Large
+How many minutes does it take to brush your teeth? <masked> Small
+How many cars are typically parked in a parking lot? <masked> Large
+How many spoons of sugar are usually added to a cup of coffee? <masked> Small
+How many minutes does it take to make a cup of tea? <masked> Small
+How many nails are in a typical box of nails? <masked> Large
+How many days are in a typical month? <masked> Medium
+How many flowers are in a typical bouquet? <masked> Medium
+How many keys are on a typical computer keyboard? <masked> Large
+How many people are usually on a subway car during rush hour? <masked> Medium
+How many pieces of candy are in a typical bag of candy? <masked> Large
+How many minutes does it take to cook a frozen pizza? <masked> Small
+How many hours does it take to drive across a state? <masked> Medium
+How many beads are on a typical necklace? <masked> Medium
+How many minutes does it take to bake a batch of cookies? <masked> Small
+How many people are typically in a movie theater audience? <masked> Medium
+How many books are typically on a library shelf? <masked> Large
+How many minutes does it take to walk a mile? <masked> Small
+How many hairs are typically on a person's head? <masked> Large
+How many passengers are typically on a city bus? <masked> Medium
+How many buttons are on a typical shirt? <masked> Medium
+How many people are typically at a birthday party? <masked> Medium
+How many hours does it take to fly across the country? <masked> Medium
+How many coins are in a typical piggy bank? <masked> Large
+How many minutes does it take to do a load of laundry? <masked> Small
+How many steps are typically in a flight of stairs? <masked> Medium
+How many seconds does it take to tie a shoe? <masked> Small
+How many blades of grass are in a square meter of lawn? <masked> Large
+How many minutes does it take to brew a pot of coffee? <masked> Small
+How many drops of water are in a rainstorm? <masked> Large
+How many shells are typically found on a beach? <masked> Large
+How many minutes does it take to boil an ear of corn? <masked> Small
+How many people typically attend a wedding ceremony? <masked> Medium
+How many clouds are typically in the sky on a partly cloudy day? <masked> Large
+How many ants are in an ant hill? <masked> Large
+How many minutes does it take to iron a shirt? <masked> Small
+How many birds are in a typical flock? <masked> Large
+How many grains of rice are in a cup? <masked> Large
+How many minutes does it take to bake a loaf of bread? <masked> Small
+How many leaves are on a deciduous tree in summer? <masked> Large
+How many beads are on a typical bracelet? <masked> Medium
+How many minutes does it take to roast a chicken? <masked> Small
+How many fish are typically in a school of fish? <masked> Large
+How many drops of water are in a waterfall? <masked> Large
+How many minutes does it take to change a lightbulb? <masked> Small
+How many flowers are in a typical garden? <masked> Large
+How many minutes does it take to inflate a balloon? <masked> Small
+How many seeds are in a typical pumpkin? <masked> Large
+How many minutes does it take to climb a flight of stairs? <masked> Small
+How many stars are typically visible in the night sky? <masked> Large
+How many minutes does it take to fold a load of laundry? <masked> Small
+How many leaves are on a palm tree? <masked> Large
+How many minutes does it take to peel an orange? <masked> Small
+How many snowflakes fall during a snowstorm? <masked> Large
+How many minutes does it take to microwave popcorn? <masked> Small
+How many grains of sand are on a sandy beach? <masked> Large
+How many minutes does it take to brush a pet's fur? <masked> Small
+How many drops of rainfall in a typical rainfall? <masked> Large
+How many minutes does it take to cook a scrambled egg? <masked> Small
+How many trees are in a typical orchard? <masked> Large
+How many minutes does it take to pack a suitcase? <masked> Small
+How many waves are there in the ocean? <masked> Large
+How many minutes does it take to carve a pumpkin? <masked> Small
+How many pebbles are typically found on a riverbank? <masked> Large
+How many minutes does it take to clean a window? <masked> Small
+How many flowers are typically in a bouquet? <masked> Large
+How many minutes does it take to set a table for dinner? <masked> Small
+How many grains of sand are in a sand dune? <masked> Large
+How many minutes does it take to paint a small room? <masked> Small
+How many birds are typically in a bird's nest? <masked> Large
+How many minutes does it take to write a thank-you note? <masked> Small
+How many stars are typically visible in a city sky? <masked> Medium
+How many minutes does it take to chop an onion? <masked> Small
+How many grains of rice are typically in a serving? <masked> Medium
+How many minutes does it take to fill a bathtub? <masked> Small
+How many pieces of fruit are in a typical fruit bowl? <masked> Medium
+How many minutes does it take to assemble a jigsaw puzzle? <masked> Small
+How many grains of sand are there in a sandcastle? <masked> Large
+How many minutes does it take to brew a pot of tea? <masked> Small
+How many blades of grass are typically in a square meter of lawn? <masked> Large
+How many minutes does it take to cook a bowl of instant noodles? <masked> Small
+How many bubbles are typically in a glass of soda? <masked> Large
+How many minutes does it take to write a short email? <masked> Small
+How many drops of water are typically in a rain shower? <masked> Large
+How many minutes does it take to make a bed? <masked> Small
+How many clouds are typically in the sky on a partly cloudy day? <masked> Large
+How many minutes does it take to tie a shoelace? <masked> Small
+How many ants are typically in an ant colony? <masked> Large
+How many minutes does it take to brush your teeth? <masked> Small
+How many bubbles are typically in a bubble bath? <masked> Large
+How many minutes does it take to peel an orange? <masked> Small
+How many coins are typically in a piggy bank? <masked> Large
+How many minutes does it take to brew a cup of coffee? <masked> Small
+How many flowers are typically in a flower bouquet? <masked> Large
+How many minutes does it take to fold a load of laundry? <masked> Small
+How many leaves are typically on a tree? <masked> Large
+How many minutes does it take to microwave popcorn? <masked> Small
+How many grains of rice are typically in a serving? <masked> Medium
+How many minutes does it take to make a sandwich? <masked> Small
+How many drops of rain fall in a typical rainstorm? <masked> Large
+How many minutes does it take to make a cup of instant noodles? <masked> Small
+How many bubbles are typically in a glass of champagne? <masked> Large
+How many minutes does it take to water a garden? <masked> Small
+How many stars are typically visible in the night sky in a rural area? <masked> Large
+How many minutes does it take to brush a pet's fur? <masked> Small
+How many grains of sand are typically on a beach towel? <masked> Large
+How many minutes does it take to set the table for dinner? <masked> Small
+How many waves are typically in the ocean on a calm day? <masked> Large
+How many minutes does it take to peel a potato? <masked> Small
+How many coins are typically in a vending machine? <masked> Large
+How many minutes does it take to wrap a gift? <masked> Small
+How many grains of sand are typically in a sand dune? <masked> Large
+How many minutes does it take to cook an egg? <masked> Small
+How many stars are typically visible in the night sky in a city? <masked> Medium
+How many minutes does it take to pack a suitcase? <masked> Small
+How many raindrops are typically in a raindrop? <masked> Large
+How many minutes does it take to change a lightbulb? <masked> Small
+How many leaves are typically on a tree in autumn? <masked> Large
+How many minutes does it take to write a short note? <masked> Small
+How many bubbles are typically in a glass of beer? <masked> Large
+How many minutes does it take to prepare a cup of instant soup? <masked> Small
+How many clouds are typically in the sky on a clear day? <masked> Large
+How many minutes does it take to do a load of laundry? <masked> Small
+How many petals are typically on a flower? <masked> Medium
+How many minutes does it take to paint a small picture? <masked> Small
+How many bubbles are typically in a glass of sparkling water? <masked> Large
+How many minutes does it take to walk a mile? <masked> Small
+How many raindrops are typically in a rainstorm? <masked> Large
+How many minutes does it take to prepare a cup of tea? <masked> Small
+How many bubbles are typically in a glass of soda? <masked> Large
+How many minutes does it take to write a short email? <masked> Small
+How many drops of water are typically in a rain shower? <masked> Large
+How many minutes does it take to make a bed? <masked> Small
+How many clouds are typically in the sky on a partly cloudy day? <masked> Large
+How many minutes does it take to tie a shoelace? <masked> Small
+How many ants are typically in an ant colony? <masked> Large
+How many minutes does it take to brush your teeth? <masked> Small
+How many bubbles are typically in a bubble bath? <masked> Large
+How many minutes does it take to peel an orange? <masked> Small
+How many coins are typically in a piggy bank? <masked> Large
+How many minutes does it take to brew a cup of coffee? <masked> Small
+How many flowers are typically in a flower bouquet? <masked> Large
+How many minutes does it take to fold a load of laundry? <masked> Small
+How many leaves are typically on a tree? <masked> Large
+How many minutes does it take to microwave popcorn? <masked> Small
+How many grains of rice are typically in a serving? <masked> Medium
+How many minutes does it take to make a sandwich? <masked> Small
+How many drops of rain fall in a typical rainstorm? <masked> Large
+How many minutes does it take to make a cup of instant noodles? <masked> Small
+How many bubbles are typically in a glass of champagne? <masked> Large
+How many minutes does it take to water a garden? <masked> Small
+How many stars are typically visible in the night sky in a rural area? <masked> Large
+How many minutes does it take to brush a pet's fur? <masked> Small
+How many grains of sand are typically on a beach towel? <masked> Large
+How many minutes does it take to set the table for dinner? <masked> Small
+How many waves are typically in the ocean on a calm day? <masked> Large
+How many minutes does it take to peel a potato? <masked> Small
+How many coins are typically in a vending machine? <masked> Large
+How many minutes does it take to wrap a gift? <masked> Small
+How many grains of sand are typically in a sand dune? <masked> Large
+How many minutes does it take to cook an egg? <masked> Small
+How many stars are typically visible in the night sky in a city? <masked> Medium
+How many minutes does it take to pack a suitcase? <masked> Small
+How many raindrops are typically in a raindrop? <masked> Large
+How many minutes does it take to change a lightbulb? <masked> Small
+How many leaves are typically on a tree in autumn? <masked> Large
+How many minutes does it take to write a short note? <masked> Small
+How many bubbles are typically in a glass of beer? <masked> Large
+How many minutes does it take to prepare a cup of instant soup? <masked> Small
+How many clouds are typically in the sky on a clear day? <masked> Large
+How many minutes does it take to do a load of laundry? <masked> Small
+How many petals are typically on a flower? <masked> Medium
+How many minutes does it take to paint a small picture? <masked> Small
+How many bubbles are typically in a glass of sparkling water? <masked> Large
+How many minutes does it take to walk a mile? <masked> Small
+How many raindrops are typically in a rainstorm? <masked> Large
+How many minutes does it take to prepare a cup of tea? <masked> Small
+How many grains of sand are in an hourglass? <masked> Large
+How many footsteps does a person take in a day? <masked> Large
+How many drops of water are in a swimming pool? <masked> Large
+How many leaves fall from a tree in a week? <masked> Large
+How many keys are on a typical keychain? <masked> Medium
+How many emails does a person receive in a day? <masked> Large
+How many feathers are on a typical bird? <masked> Large
+How many pebbles are on a beach? <masked> Large
+How many breaths does a person take in a minute? <masked> Medium
+How many lightbulbs are in a typical office building? <masked> Large
+How many pieces of candy are in a candy jar? <masked> Medium
+How many petals are on a sunflower? <masked> Medium
+How many hairs are on a person's head? <masked> Large
+How many buttons are on a remote control? <masked> Medium
+How many grains of rice are in a cup? <masked> Large
+How many books are in a library? <masked> Large
+How many ants are in an ant farm? <masked> Large
+How many pencils are in a pack? <masked> Medium
+How many minutes does it take to boil an egg? <masked> Small
+How many cookies are in a cookie jar? <masked> Medium
+How many raindrops fall in a rainstorm? <masked> Large
+How many leaves are on a tree in spring? <masked> Large
+How many stairs are in a typical staircase? <masked> Medium
+How many grains of sand are on a playground? <masked> Large
+How many seeds are in a watermelon? <masked> Large
+How many buttons are on a shirt? <masked> Medium
+How many grains of rice are in a bowl of rice? <masked> Large
+How many stars are in the Milky Way galaxy? <masked> Large
+How many drops of water are in a waterfall? <masked> Large
+How many minutes does it take to bake a cake? <masked> Small
+How many bricks are in a brick wall? <masked> Large
+How many flowers are in a garden? <masked> Large
+How many cars are on a highway during rush hour? <masked> Large
+How many minutes does it take to brew a cup of tea? <masked> Small
+How many grains of sand are in an hourglass? <masked> Large
+How many drops of rain fall in a typical rainfall? <masked> Large
+How many apples are in a bushel? <masked> Large
+How many clouds are in the sky on a cloudy day? <masked> Large
+How many minutes does it take to cook pasta? <masked> Small
+How many seeds are in a pumpkin? <masked> Large
+How many bubbles are in a bubble bath? <masked> Large
+How many minutes does it take to boil water? <masked> Small
+How many trees are in a forest? <masked> Large
+How many drops of water are in a glass of water? <masked> Large
+How many minutes does it take to make a cup of hot chocolate? <masked> Small
+How many blades of grass are in a lawn? <masked> Large
+How many pieces of paper are in a ream? <masked> Large
+How many leaves are on a tree in summer? <masked> Large
+How many minutes does it take to brew a cup of coffee? <masked> Small
+How many grains of sand are on a beach? <masked> Large
+How many ants are in an ant hill? <masked> Large
+How many drops of water are in a raindrop? <masked> Large
+How many minutes does it take to make a cup of lemonade? <masked> Small
+How many petals are on a rose? <masked> Medium
+How many seeds are in an apple? <masked> Medium
+How many minutes does it take to cook a hamburger? <masked> Small
+How many grains of sand are on a desert? <masked> Large
+How many cells are in the human body? <masked> Large
+How many drops of water are in a puddle? <masked> Large
+How many minutes does it take to make a cup of soup? <masked> Small
+How many blades of grass are on a golf course? <masked> Large
+How many pages are in a typical book? <masked> Large
+How many minutes does it take to cook rice? <masked> Small
+How many eggs are in a dozen? <masked> Medium
+How many keys are on a piano? <masked> Large
+How many drops of water are in a swimming pool? <masked> Large
+How many minutes does it take to make a cup of iced tea? <masked> Small
+How many blades are on a typical wind turbine? <masked> Large
+How many pieces of popcorn are in a popped bag? <masked> Large
+How many clouds are in the sky on a sunny day? <masked> Large
+How many minutes does it take to make a cup of hot cocoa? <masked> Small
+How many petals are on a daisy? <masked> Medium
+How many drops of rain fall in a thunderstorm? <masked> Large
+How many minutes does it take to cook spaghetti? <masked> Small
+How many grains of sand are in a sandcastle? <masked> Large
+How many teeth does a person typically have? <masked> Medium
+How many drops of water are in a water balloon? <masked> Large
+How many minutes does it take to make a cup of herbal tea? <masked> Small
+How many blades of grass are in a soccer field? <masked> Large
+How many seeds are in a sunflower? <masked> Large
+How many drops of water are in a water fountain? <masked> Large
+How many minutes does it take to cook pancakes? <masked> Small
+How many bubbles are in a glass of champagne? <masked> Large
+How many leaves are on a tree in winter? <masked> Large
+How many minutes does it take to make a cup of matcha? <masked> Small
+How many petals are on a tulip? <masked> Medium
+How many drops of water are in a rain puddle? <masked> Large
+How many minutes does it take to cook bacon? <masked> Small
+How many feathers are on a bird's wing? <masked> Large
+How many grains of sand are in an hourglass? <masked> Large
+How many pieces of candy are in a bag of candy? <masked> Large
+How many buttons are on a coat? <masked> Medium
+How many drops of water are in a fountain? <masked> Large
+How many minutes does it take to make a cup of iced coffee? <masked> Small
+How many leaves are on a tree in fall? <masked> Large
+How many bubbles are in a glass of sparkling water? <masked> Large
+How many grains of sand are in a sand dune? <masked> Large
+How many seeds are in a strawberry? <masked> Medium
+How many drops of water are in a waterfall? <masked> Large
+How many minutes does it take to bake a potato? <masked> Small
+How many cells are in the human body? <masked> Large
+How many blades of grass are in a football field? <masked> Large
+How many bubbles are in a bottle of soda? <masked> Large
+How many keys are on a grand piano? <masked> Large
+How many drops of water are in a swimming pool? <masked> Large
+How many feathers are on a peacock's tail? <masked> Large
+How many stars are in the Andromeda galaxy? <masked> Large
+How many seeds are in a pomegranate? <masked> Large
+How many cars pass through a toll booth in a day? <masked> Large
+How many ants are in an ant colony? <masked> Large
+How many teeth does an adult human have? <masked> Medium
+How many drops of water are in a waterfall? <masked> Large
+How many leaves are on a redwood tree? <masked> Large
+How many books are in a university library? <masked> Large
+How many neurons are in the human brain? <masked> Large
+How many blades are on a wind turbine? <masked> Large
+How many fish are in the ocean? <masked> Large
+How many grains of sand are in the Sahara Desert? <masked> Large
+How many keys are on a computer keyboard? <masked> Medium
+How many bubbles are in a bubble bath? <masked> Large
+How many stars are in the constellation Orion? <masked> Large
+How many petals are on a sunflower? <masked> Medium
+How many blades of grass are on a golf course? <masked> Large
+How many raindrops fall in a rainstorm? <masked> Large
+How many ants are in an anthill? <masked> Large
+How many drops of water are in a rain puddle? <masked> Large
+How many leaves are on a maple tree? <masked> Large
+How many planets are in our solar system? <masked> Medium
+How many bubbles are in a glass of champagne? <masked> Large
+How many grains of sand are on a beach? <masked> Large
+How many blades of grass are in a city park? <masked> Large
+How many drops of water are in a river? <masked> Large
+How many hairs are on a human head? <masked> Large
+How many stars are in the constellation Ursa Major? <masked> Large
+How many petals are on a rose? <masked> Medium
+How many drops of rain fall in a typical thunderstorm? <masked> Large
+How many coins are in a fountain? <masked> Large
+How many trees are in the Amazon Rainforest? <masked> Large
+How many bubbles are in a glass of soda? <masked> Large
+How many teeth does a shark have? <masked> Large
+How many drops of water are in a pond? <masked> Large
+How many feathers are on a bald eagle's wing? <masked> Large
+How many stars are in the constellation Gemini? <masked> Large
+How many seeds are in a watermelon? <masked> Large
+How many bricks are in the Great Wall of China? <masked> Large
+How many grains of sand are on a desert island? <masked> Large
+How many drops of water are in a waterfall? <masked> Large
+How many leaves are on an oak tree? <masked> Large
+How many clouds are in the sky on a cloudy day? <masked> Large
+How many fish are in a coral reef? <masked> Large
+How many drops of water are in a fountain? <masked> Large
+How many feathers are on a penguin's back? <masked> Large
+How many stars are in the constellation Leo? <masked> Large
+How many seeds are in an apple? <masked> Medium
+How many bricks are in a typical house? <masked> Large
+How many grains of sand are in a sandbox? <masked> Large
+How many drops of water are in a waterfall? <masked> Large
+How many leaves are on a palm tree? <masked> Large
+How many clouds are in the sky on a clear day? <masked> Large
+How many stars are in the constellation Sagittarius? <masked> Large
+How many drops of water are in a pond? <masked> Large
+How many feathers are on a flamingo's neck? <masked> Large
+How many keys are on a concert grand piano? <masked> Large
+How many drops of water are in a waterfall? <masked> Large
+How many leaves are on a weeping willow tree? <masked> Large
+How many bricks are in the Empire State Building? <masked> Large
+How many grains of sand are on a Caribbean beach? <masked> Large
+How many drops of water are in a river? <masked> Large
+How many stars are in the constellation Taurus? <masked> Large
+How many seeds are in a pumpkin? <masked> Large
+How many bricks are in the Colosseum in Rome? <masked> Large
+How many drops of water are in a waterfall? <masked> Large
+How many leaves are on a cherry blossom tree? <masked> Large
+How many clouds are in the sky on a stormy day? <masked> Large
+How many stars are in the constellation Pisces? <masked> Large
+How many drops of water are in a puddle? <masked> Large
+How many feathers are on a hummingbird's wing? <masked> Large
+How many keys are on a harpsichord? <masked> Large
+How many drops of water are in a waterfall? <masked> Large
+How many leaves are on a banana tree? <masked> Large
+How many bricks are in the Great Pyramid of Giza? <masked> Large
+How many grains of sand are on a Pacific beach? <masked> Large
+How many drops of water are in a stream? <masked> Large
+How many feathers are on an ostrich's body? <masked> Large
+How many stars are in the constellation Virgo? <masked> Large
+How many seeds are in a cucumber? <masked> Large
+How many bricks are in the Taj Mahal? <masked> Large
+How many drops of water are in a water balloon? <masked> Large
+How many leaves are on a eucalyptus tree? <masked> Large
+How many clouds are in the sky on a sunny day? <masked> Large
+How many stars are in the constellation Aquarius? <masked> Large
+How many seeds are in a mango? <masked> Large
+How many bricks are in the Roman Colosseum? <masked> Large
+How many drops of water are in a raindrop? <masked> Large
+How many leaves are on a palm frond? <masked> Large
+How many clouds are in the sky on a foggy day? <masked> Large
+How many stars are in the constellation Scorpius? <masked> Large
+How many seeds are in a bell pepper? <masked> Large
+How many bricks are in the Kremlin? <masked> Large
+How many drops of water are in a fountain? <masked> Large
+How many grains of sand are on a small seashell? <masked> Small
+How many LEGO bricks are in a typical child's toy box? <masked> Medium
+How many bubbles are in a bottle of sparkling wine? <masked> Large
+How many keys are on a vintage typewriter? <masked> Medium
+How many rainbows does a person see in a year? <masked> Medium
+How many hairs are on a cat's tail? <masked> Medium
+How many grains of rice are in a sushi roll? <masked> Medium
+How many stars are visible in a city sky on a clear night? <masked> Small
+How many petals are on a rare orchid? <masked> Medium
+How many bites does it take to eat a slice of pizza? <masked> Medium
+How many bubbles are in a glass of carbonated water? <masked> Large
+How many keys are on a vintage pocket watch? <masked> Small
+How many ice cubes are in a pitcher of iced tea? <masked> Medium
+How many waves crash onto a shore during a strong storm? <masked> Large
+How many feathers are on a tropical bird's wing? <masked> Medium
+How many petals are on a single rose in a bouquet? <masked> Small
+How many coins are tossed in a game of heads or tails? <masked> Small
+How many bubbles are in a glass of sparkling lemonade? <masked> Large
+How many keys are on a vintage accordion? <masked> Medium
+How many raindrops hit the ground during a light drizzle? <masked> Medium
+How many feathers are on a peacock's crown? <masked> Medium
+How many petals are on a wildflower in a meadow? <masked> Medium
+How many drops of water are in a small fountain? <masked> Medium
+How many stars are visible in the night sky from a mountaintop? <masked> Large
+How many bites does it take to eat a serving of spaghetti? <masked> Large
+How many bubbles are in a glass of champagne at a celebration? <masked> Large
+How many keys are on a vintage cash register? <masked> Medium
+How many raindrops fall during a light rain shower? <masked> Medium
+How many feathers are on a duck's wing? <masked> Medium
+How many petals are on a cherry blossom in full bloom? <masked> Medium
+How many coins are in a fountain in a public square? <masked> Large
+How many bubbles are in a glass of homemade soda? <masked> Large
+How many keys are on a vintage typewriter keyboard? <masked> Medium
+How many raindrops hit the ground during a heavy downpour? <masked> Large
+How many feathers are on a swan's wing? <masked> Medium
+How many petals are on a bouquet of fresh tulips? <masked> Medium
+How many drops of water are in a small bird bath? <masked> Medium
+How many stars are visible in the night sky from a desert oasis? <masked> Large
+How many bites does it take to eat a serving of lasagna? <masked> Large
+How many bubbles are in a glass of sparkling cider? <masked> Large
+How many keys are on a vintage music box? <masked> Medium
+How many raindrops fall during a passing summer shower? <masked> Large
+How many feathers are on a hawk's wing? <masked> Medium
+How many petals are on a blooming sunflower in a garden? <masked> Medium
+How many coins are in a wishing well at a tourist attraction? <masked> Large
+How many bubbles are in a glass of homemade lemonade? <masked> Large
+How many keys are on a vintage mechanical calculator? <masked> Medium
+How many raindrops hit the ground during a brief summer sprinkle? <masked> Medium
+How many feathers are on an owl's wing? <masked> Medium
+How many petals are on a blooming lotus flower in a pond? <masked> Medium
+How many coins are in a fountain in a botanical garden? <masked> Large
+How many bubbles are in a glass of sparkling cider at a wedding? <masked> Large
+How many keys are on a vintage music box? <masked> Medium
+How many raindrops fall during a gentle spring rain? <masked> Large
+How many feathers are on a bald eagle's wing? <masked> Medium
+How many petals are on a blooming magnolia tree in a park? <masked> Medium
+How many coins are in a fountain in a shopping mall? <masked> Large
+How many bubbles are in a glass of homemade root beer? <masked> Large
+How many keys are on a vintage music box? <masked> Medium
+How many raindrops hit the ground during a misty morning? <masked> Medium
+How many feathers are on a falcon's wing? <masked> Medium
+How many petals are on a blooming hibiscus flower in a tropical garden? <masked> Medium
+How many coins are in a fountain in a theme park? <masked> Large
+How many bubbles are in a glass of sparkling cider at a New Year's Eve party? <masked> Large
+How many keys are on a vintage player piano? <masked> Medium
+How many raindrops fall during a foggy autumn morning? <masked> Medium
+How many feathers are on a peacock's tail? <masked> Medium
+How many petals are on a blooming cherry blossom tree in a Japanese garden? <masked> Medium
+How many coins are in a fountain in a city square? <masked> Large
+How many bubbles are in a glass of homemade ginger ale? <masked> Large
+How many keys are on a vintage harpsichord? <masked> Medium
+How many raindrops hit the ground during a winter snow flurry? <masked> Medium
+How many feathers are on a turkey's wing? <masked> Medium
+How many petals are on a blooming cherry blossom tree in a botanical garden? <masked> Medium
+How many coins are in a fountain in a historic town square? <masked> Large
+How many bubbles are in a glass of homemade kombucha? <masked> Large
+How many keys are on a vintage music box? <masked> Medium
+How many raindrops fall during a crisp autumn evening? <masked> Medium
+How many feathers are on a goose's wing? <masked> Medium
+How many petals are on a blooming cherry blossom tree in a springtime park? <masked> Medium
+How many coins are in a fountain in a historic cathedral courtyard? <masked> Large
+How many bubbles are in a glass of homemade fruit punch? <masked> Large
+How many keys are on a vintage music box? <masked> Medium
+How many raindrops hit the ground during a cool spring drizzle? <masked> Medium
+How many feathers are on a peacock's crest? <masked> Medium
+How many petals are on a blooming cherry blossom tree in a public garden? <masked> Medium
+How many coins are in a fountain in a historic castle courtyard? <masked> Large
+How many bubbles are in a glass of homemade iced tea? <masked> Large
+How many keys are on a vintage music box? <masked> Medium
+How many raindrops fall during a breezy summer afternoon? <masked> Medium
+How many feathers are on a swan's wing? <masked> Medium
+How many petals are on a blooming cherry blossom tree in a botanical park? <masked> Medium
+How many coins are in a fountain in a historic landmark plaza? <masked> Large
+How many bubbles are in a glass of homemade lemon-lime soda? <masked> Large
+How many keys are on a vintage music box? <masked> Medium
+How many raindrops hit the ground during a misty autumn morning? <masked> Medium
+How many feathers are on an eagle's wing? <masked> Medium
+How many petals are on a blooming cherry blossom tree in a city garden? <masked> Medium
+How many coins are in a fountain in a historic town square at midnight? <masked> Large
+How many bubbles are in a glass of homemade fruit-infused sparkling water? <masked> Large
+How many strokes of paint are in Van Gogh's "Starry Night"? <masked> Large
+How many pages are in the complete works of William Shakespeare? <masked> Large
+How many words are in the longest novel ever written? <masked> Large
+How many colors are used in a typical Monet painting? <masked> Medium
+How many brushstrokes are in the Mona Lisa's smile? <masked> Medium
+How many characters are in Tolstoy's "War and Peace"? <masked> Large
+How many sculptures are in the Louvre Museum? <masked> Large
+How many lines are in a Shakespearean sonnet? <masked> Medium
+How many words are in an average haiku? <masked> Small
+How many paintings did Picasso create in his lifetime? <masked> Large
+How many chapters are in J.R.R. Tolkien's "The Lord of the Rings"? <masked> Medium
+How many colors are in a typical Andy Warhol painting? <masked> Medium
+How many words are in the shortest story ever published? <masked> Small
+How many sculptures did Michelangelo carve in his career? <masked> Large
+How many lines are in a typical stanza of a poem? <masked> Medium
+How many words are in the average novel? <masked> Large
+How many strokes are in a typical calligraphy piece? <masked> Medium
+How many chapters are in the Harry Potter series? <masked> Medium
+How many colors are in a typical stained glass window? <masked> Medium
+How many words are in a typical Shakespearean soliloquy? <masked> Medium
+How many brushstrokes are in da Vinci's "The Last Supper"? <masked> Large
+How many pages are in the world's largest illuminated manuscript? <masked> Large
+How many characters are in Homer's "The Iliad"? <masked> Large
+How many sculptures are in Central Park, New York City? <masked> Large
+How many lines are in a typical limerick? <masked> Medium
+How many colors are in a typical Renaissance painting palette? <masked> Medium
+How many words are in the longest poem ever written? <masked> Large
+How many brushstrokes are in Botticelli's "The Birth of Venus"? <masked> Large
+How many pages are in the Gutenberg Bible? <masked> Large
+How many characters are in Dante's "Divine Comedy"? <masked> Large
+How many sculptures are in the Vatican Museums? <masked> Large
+How many lines are in a typical Shakespearean play? <masked> Large
+How many colors are in a typical contemporary abstract painting? <masked> Medium
+How many words are in a typical children's picture book? <masked> Medium
+How many strokes of the pen are in a typical manga illustration? <masked> Medium
+How many pages are in the world's largest pop-up book? <masked> Large
+How many characters are in Shakespeare's "Romeo and Juliet"? <masked> Medium
+How many sculptures are in the British Museum? <masked> Large
+How many lines are in a typical stanza of a villanelle? <masked> Medium
+How many colors are in a typical graffiti mural? <masked> Medium
+How many words are in the shortest poem to win a Pulitzer Prize? <masked> Small
+How many strokes of the brush are in a typical Chinese landscape painting? <masked> Large
+How many pages are in the world's largest comic book? <masked> Large
+How many characters are in Jane Austen's "Pride and Prejudice"? <masked> Medium
+How many sculptures are in the Rodin Museum? <masked> Large
+How many lines are in a typical stanza of a sonnet? <masked> Medium
+How many colors are in a typical Impressionist painting? <masked> Medium
+How many words are in the world's longest palindrome? <masked> Large
+How many brushstrokes are in Van Eyck's "The Arnolfini Portrait"? <masked> Large
+How many pages are in the world's largest coloring book? <masked> Large
+How many countries are members of the United Nations? <masked> Large
+How many seats are in the United States House of Representatives? <masked> Large
+How many political parties are there in the United Kingdom's Parliament? <masked> Medium
+How many nuclear-armed countries are there in the world? <masked> Medium
+How many ambassadors does the United States have stationed around the world? <masked> Large
+How many heads of state attended the last G20 Summit? <masked> Medium
+How many members are there in the European Parliament? <masked> Large
+How many seats are in the Russian State Duma? <masked> Large
+How many political parties are there in India's Lok Sabha? <masked> Medium
+How many countries are members of the North Atlantic Treaty Organization (NATO)? <masked> Large
+How many seats are in the Chinese National People's Congress? <masked> Large
+How many political parties are represented in the Australian Parliament? <masked> Medium
+How many seats are in the Canadian House of Commons? <masked> Large
+How many countries are members of the African Union? <masked> Large
+How many political parties are there in the Japanese National Diet? <masked> Medium
+How many seats are in the German Bundestag? <masked> Large
+How many political parties are there in Brazil's National Congress? <masked> Medium
+How many seats are in the French National Assembly? <masked> Large
+How many political parties are there in the South African Parliament? <masked> Medium
+How many seats are in the Mexican Chamber of Deputies? <masked> Large
+How many countries are members of the Association of Southeast Asian Nations (ASEAN)? <masked> Medium
+How many seats are in the Italian Chamber of Deputies? <masked> Large
+How many political parties are represented in the Spanish Congress of Deputies? <masked> Medium
+How many seats are in the Indian Lok Sabha? <masked> Large
+How many countries are members of the Commonwealth of Nations? <masked> Large
+How many seats are in the British House of Commons? <masked> Large
+How many political parties are there in the Canadian Parliament? <masked> Medium
+How many seats are in the Japanese House of Representatives? <masked> Large
+How many countries are members of the Organization of American States (OAS)? <masked> Large
+How many seats are in the Spanish Congress of Deputies? <masked> Large
+How many political parties are represented in the German Bundestag? <masked> Medium
+How many seats are in the Brazilian Chamber of Deputies? <masked> Large
+How many countries are members of the Shanghai Cooperation Organization (SCO)? <masked> Medium
+How many seats are in the South African National Assembly? <masked> Large
+How many political parties are there in the French National Assembly? <masked> Medium
+How many seats are in the Russian Federation Council? <masked> Large
+How many countries are members of the Arab League? <masked> Large
+How many seats are in the Australian House of Representatives? <masked> Large
+How many political parties are represented in the Italian Chamber of Deputies? <masked> Medium
+How many seats are in the Indian Rajya Sabha? <masked> Large
+How many islands are there in the world? <masked> Large
+How many mountain peaks are there in the Himalayas? <masked> Large
+How many rivers flow into the Amazon River? <masked> Large
+How many lakes are there in the Great Lakes region of North America? <masked> Medium
+How many countries share a border with Russia? <masked> Medium
+How many islands make up the Maldives archipelago? <masked> Large
+How many active volcanoes are there in the Pacific Ring of Fire? <masked> Large
+How many deserts are there in Africa? <masked> Medium
+How many fjords are there in Norway? <masked> Large
+How many islands are there in the Philippines? <masked> Large
+How many rivers flow into the Mississippi River? <masked> Large
+How many countries are located on the Arabian Peninsula? <masked> Medium
+How many peaks are there in the Alps mountain range? <masked> Large
+How many lakes are there in the Canadian province of Ontario? <masked> Medium
+How many islands are there in Indonesia? <masked> Large
+How many rivers flow into the Nile River? <masked> Large
+How many countries are landlocked in South America? <masked> Medium
+How many islands are there in Greece? <masked> Large
+How many glaciers are there in Antarctica? <masked> Large
+How many islands are there in Japan? <masked> Large
+How many rivers flow into the Yangtze River? <masked> Large
+How many countries are located in Central America? <masked> Medium
+How many islands are there in the Caribbean Sea? <masked> Large
+How many lakes are there in the state of Minnesota, USA? <masked> Medium
+How many islands are there in the Pacific Ocean's Polynesian region? <masked> Large
+How many rivers flow into the Rhine River? <masked> Large
+How many countries are located in the Horn of Africa? <masked> Medium
+How many islands are there in the Indian Ocean's Seychelles archipelago? <masked> Large
+How many lakes are there in the African Rift Valley? <masked> Medium
+How many islands are there in the Mediterranean Sea? <masked> Large
+How many rivers flow into the Danube River? <masked> Large
+How many countries are located in the Caucasus region? <masked> Medium
+How many islands are there in New Zealand? <masked> Large
+How many lakes are there in the state of Michigan, USA? <masked> Medium
+How many islands are there in the South Pacific's Fiji archipelago? <masked> Large
+How many rivers flow into the Congo River? <masked> Large
+How many countries are located in the Greater Antilles? <masked> Medium
+How many islands are there in the Atlantic Ocean's Azores archipelago? <masked> Large
+How many lakes are there in the Canadian province of Manitoba? <masked> Medium
+How many islands are there in Australia? <masked> Large
+How many languages are spoken in the world today? <masked> Large
+How many UNESCO World Heritage Sites are there in Italy? <masked> Large
+How many Broadway musicals have won the Tony Award for Best Musical? <masked> Medium
+How many films have won the Academy Award for Best Picture? <masked> Large
+How many countries participate in the Olympic Games? <masked> Large
+How many classical music composers are considered "major" in history? <masked> Large
+How many museums are there in Paris, France? <masked> Large
+How many novels have won the Pulitzer Prize for Fiction? <masked> Medium
+How many recognized dance styles are there in the world? <masked> Medium
+How many UNESCO Creative Cities are there in the category of Literature? <masked> Large
+How many operas did Wolfgang Amadeus Mozart compose? <masked> Medium
+How many countries participate in the Eurovision Song Contest? <masked> Large
+How many art galleries are there in New York City's Chelsea neighborhood? <masked> Large
+How many Nobel Prize categories are there? <masked> Medium
+How many recognized martial arts are there in the world? <masked> Medium
+How many UNESCO Intangible Cultural Heritage elements are there in China? <masked> Large
+How many Shakespearean plays are considered part of the playwright's canon? <masked> Medium
+How many countries participate in the FIFA World Cup? <masked> Large
+How many recognized music genres are there in the world? <masked> Medium
+How many UNESCO World Heritage Sites are there in India? <masked> Large
+How many Disney animated feature films have been released? <masked> Large
+How many languages are included in the United Nations' six official languages? <masked> Medium
+How many recognized film genres are there in the world? <masked> Medium
+How many UNESCO Creative Cities are there in the category of Music? <masked> Large
+How many episodes are there in the television series "The Simpsons"? <masked> Large
+How many recognized dance forms are there in ballet? <masked> Medium
+How many UNESCO World Heritage Sites are there in Japan? <masked> Large
+How many films have won the Palme d'Or at the Cannes Film Festival? <masked> Medium
+How many recognized literary genres are there in the world? <masked> Medium
+How many UNESCO Intangible Cultural Heritage elements are there in Japan? <masked> Large
+How many albums have won the Grammy Award for Album of the Year? <masked> Medium
+How many recognized painting styles are there in the art world? <masked> Medium
+How many UNESCO Creative Cities are there in the category of Film? <masked> Large
+How many books are in the Harry Potter series? <masked> Medium
+How many recognized theater genres are there in the world? <masked> Medium
+How many UNESCO World Heritage Sites are there in France? <masked> Large
+How many albums has Michael Jackson released in his career? <masked> Large
+How many recognized fashion styles are there in the world? <masked> Medium
+How many UNESCO Intangible Cultural Heritage elements are there in Spain? <masked> Large
+How many episodes are there in the television series "Friends"? <masked> Large
+How many recognized sculpture techniques are there in the art world? <masked> Medium
+How many UNESCO Creative Cities are there in the category of Crafts and Folk Art? <masked> Large
+How many plays did William Shakespeare write? <masked> Medium
+How many recognized cooking styles are there in the culinary world? <masked> Medium
+How many UNESCO World Heritage Sites are there in Spain? <masked> Large
+How many Academy Awards has Meryl Streep won? <masked> Medium
+How many recognized photography genres are there in the art world? <masked> Medium
+How many UNESCO Intangible Cultural Heritage elements are there in Italy? <masked> Large
+How many episodes are there in the television series "Breaking Bad"? <masked> Large
+How many recognized architectural styles are there in the world? <masked> Medium
+How many recognized ancient wonders of the world are there? <masked> Small
+How many Academy Awards has Katharine Hepburn won? <masked> Medium
+How many recognized dance forms are there in traditional Indian dance? <masked> Medium
+How many recognized culinary schools are there in France? <masked> Medium
+How many recognized colors are there in the rainbow? <masked> Small
+How many Grammy Awards has Beyoncé won? <masked> Medium
+How many recognized martial arts originated in Japan? <masked> Medium
+How many recognized wine regions are there in California? <masked> Medium
+How many recognized planets are there in our solar system? <masked> Small
+How many Nobel Prizes are awarded annually in each category? <masked> Medium
+How many recognized musical scales are there in Western music theory? <masked> Small
+How many recognized fashion capitals are there in the world? <masked> Medium
+How many recognized species of big cats are there in the wild? <masked> Small
+How many recognized languages are there in the European Union? <masked> Medium
+How many recognized genres of literature are there? <masked> Medium
+How many recognized continents are there on Earth? <masked> Small
+How many recognized colors are there in a standard pack of crayons? <masked> Medium
+How many recognized constellations are there in the night sky? <masked> Small
+How many recognized species of penguins are there in Antarctica? <masked> Small
+How many recognized time zones are there in the world? <masked> Medium
+How many recognized elements are there in the periodic table? <masked> Small
+How many recognized UNESCO World Heritage Sites are there in Egypt? <masked> Medium
+How many recognized species of sharks are there in the ocean? <masked> Small
+How many recognized moons does Jupiter have? <masked> Small
+How many recognized styles of architecture are there in ancient Rome? <masked> Medium
+How many recognized species of whales are there in the ocean? <masked> Small
+How many recognized symphonies did Ludwig van Beethoven compose? <masked> Medium
+How many recognized species of elephants are there in the world? <masked> Small
+How many recognized colors are there in a standard pack of M&M's? <masked> Medium
+How many recognized moons does Saturn have? <masked> Small
+How many recognized species of bears are there in the wild? <masked> Small
+How many recognized constellations are there in the zodiac? <masked> Medium
+How many recognized species of butterflies are there in the world? <masked> Small
+How many recognized symphonies did Wolfgang Amadeus Mozart compose? <masked> Medium
+How many recognized species of dolphins are there in the ocean? <masked> Small
+How many recognized styles of sushi are there in Japanese cuisine? <masked> Medium
+How many recognized species of owls are there in the wild? <masked> Small
+How many recognized flavors are there in a standard pack of Skittles? <masked> Medium
+How many recognized moons does Uranus have? <masked> Small
+How many recognized species of eagles are there in the world? <masked> Small
+How many recognized species of venomous snakes are there in the wild? <masked> Small
+How many recognized styles of pasta are there in Italian cuisine? <masked> Medium
+How many recognized moons does Neptune have? <masked> Small
+How many recognized species of jellyfish are there in the ocean? <masked> Small
+How many recognized flavors are there in a standard pack of Jelly Belly jelly beans? <masked> Medium
+How many recognized species of kangaroos are there in Australia? <masked> Small
+How many recognized species of crocodiles are there in the wild? <masked> Small
+How many recognized styles of tea are there in Chinese culture? <masked> Medium
+How many recognized moons does Mars have? <masked> Small
+How many recognized species of giraffes are there in the world? <masked> Small
+How many Ivy League universities are there in the United States? <masked> Small
+How many students are enrolled at Harvard University? <masked> Medium
+How many community colleges are there in California? <masked> Large
+How many engineering programs are ranked in the top 10 by U.S. News & World Report? <masked> Medium
+How many students attend University of California, Berkeley? <masked> Medium
+How many historically black colleges and universities (HBCUs) are there in the United States? <masked> Large
+How many students are enrolled at Stanford University? <masked> Medium
+How many liberal arts colleges are there in Massachusetts? <masked> Large
+How many students attend University of Texas at Austin? <masked> Medium
+How many public universities are there in the Big Ten Conference? <masked> Medium
+How many students are enrolled at Massachusetts Institute of Technology (MIT)? <masked> Medium
+How many community colleges are there in Texas? <masked> Large
+How many students attend University of Michigan, Ann Arbor? <masked> Medium
+How many law schools are accredited by the American Bar Association? <masked> Large
+How many students are enrolled at University of Chicago? <masked> Medium
+How many universities are members of the Association of American Universities (AAU)? <masked> Large
+How many students attend University of California, Los Angeles (UCLA)? <masked> Medium
+How many colleges and universities are there in the State University of New York (SUNY) system? <masked> Large
+How many students are enrolled at Columbia University? <masked> Medium
+How many universities are members of the National Collegiate Athletic Association (NCAA)? <masked> Large
+How many students attend Yale University? <masked> Medium
+How many universities offer online degree programs in the United States? <masked> Large
+How many students are enrolled at University of Pennsylvania? <masked> Medium
+How many colleges and universities are there in the California State University (CSU) system? <masked> Large
+How many students attend Princeton University? <masked> Medium
+How many universities offer medical degrees accredited by the Liaison Committee on Medical Education (LCME)? <masked> Large
+How many students are enrolled at University of California, San Diego (UCSD)? <masked> Medium
+How many universities offer accredited MBA programs in the United States? <masked> Large
+How many students attend University of Washington, Seattle? <masked> Medium
+How many universities offer accredited programs in veterinary medicine? <masked> Large
+How many students are enrolled at Duke University? <masked> Medium
+How many universities offer accredited programs in pharmacy? <masked> Large
+How many students attend University of Wisconsin, Madison? <masked> Medium
+How many universities offer accredited programs in nursing? <masked> Large
+How many students are enrolled at Northwestern University? <masked> Medium
+How many universities offer accredited programs in engineering? <masked> Large
+How many students attend University of Florida? <masked> Medium
+How many universities offer accredited programs in education? <masked> Large
+How many students are enrolled at University of Virginia? <masked> Medium
+How many universities offer accredited programs in computer science? <masked> Large
+How many students attend University of North Carolina at Chapel Hill? <masked> Medium
+How many universities offer accredited programs in psychology? <masked> Large
+How many students are enrolled at University of California, Irvine (UCI)? <masked> Medium
+How many universities offer accredited programs in business administration? <masked> Large
+How many students attend University of California, Santa Barbara (UCSB)? <masked> Medium
+How many universities offer accredited programs in law? <masked> Large
+How many students are enrolled at University of California, Davis (UC Davis)? <masked> Medium
+How many universities offer accredited programs in public health? <masked> Large
+How many students attend University of Illinois at Urbana-Champaign? <masked> Medium
+How many universities offer accredited programs in social work? <masked> Large
+How many species of birds are there in the world? <masked> Large
+How many petals does the average sunflower have? <masked> Small
+How many species of trees are there in the Amazon Rainforest? <masked> Large
+How many legs does a spider have? <masked> Small
+How many species of butterflies are there in North America? <masked> Large
+How many leaves does the average oak tree have? <masked> Medium
+How many species of whales exist in the oceans? <masked> Large
+How many tentacles does an octopus have? <masked> Small
+How many species of flowers bloom in the springtime? <masked> Large
+How many stripes does the average zebra have? <masked> Small
+How many species of ants are there in a typical ant colony? <masked> Large
+How many claws does a grizzly bear have on each paw? <masked> Small
+How many species of fish inhabit the Great Barrier Reef? <masked> Large
+How many legs does a ladybug have? <masked> Small
+How many species of fungi are there in a typical forest ecosystem? <masked> Large
+How many segments does a caterpillar typically have? <masked> Small
+How many species of mammals are found in the African savanna? <masked> Large
+How many petals does the average daisy have? <masked> Small
+How many species of reptiles inhabit the Amazon River basin? <masked> Large
+How many legs does a centipede have? <masked> Small
+How many species of trees can be found in a temperate deciduous forest? <masked> Large
+How many wings does a dragonfly have? <masked> Small
+How many species of mammals are nocturnal? <masked> Large
+How many legs does a grasshopper have? <masked> Small
+How many species of flowers are pollinated by bees? <masked> Large
+How many petals does the average rose have? <masked> Small
+How many species of birds migrate long distances each year? <masked> Large
+How many legs does a millipede have? <masked> Small
+How many species of trees are native to the Pacific Northwest? <masked> Large
+How many fins does a goldfish have? <masked> Small
+How many species of insects are beneficial to gardeners? <masked> Large
+How many petals does the average dandelion have? <masked> Small
+How many species of trees are found in the Amazon Rainforest? <masked> Large
+How many legs does a praying mantis have? <masked> Small
+How many species of flowers are native to California? <masked> Large
+How many wings does a bee have? <masked> Small
+How many species of butterflies migrate across North America? <masked> Large
+How many legs does a butterfly have? <masked> Small
+How many species of trees are found in a typical boreal forest? <masked> Large
+How many petals does the average tulip have? <masked> Small
+How many species of mammals hibernate during the winter? <masked> Large
+How many legs does a housefly have? <masked> Small
+How many species of birds are found in a typical suburban backyard? <masked> Large
+How many legs does a bee have? <masked> Small
+How many species of trees are native to the Appalachian Mountains? <masked> Large
+How many petals does the average lily have? <masked> Small
+How many species of amphibians live in the Amazon Rainforest? <masked> Large
+How many legs does a cricket have? <masked> Small
+How many species of flowers are native to the Sonoran Desert? <masked> Large
+How many petals does the average orchid have? <masked> Small
+How many chairs are typically found in a standard living room? <masked> Medium
+How many keys are usually found on a keychain? <masked> Small
+How many books are typically found on a bookshelf? <masked> Medium
+How many slices of bread are in a typical loaf? <masked> Medium
+How many teeth does an adult human typically have? <masked> Medium
+How many wheels does a bicycle usually have? <masked> Small
+How many eggs are typically in a dozen? <masked> Medium
+How many months are in a year? <masked> Medium
+How many pockets are usually found on a pair of jeans? <masked> Small
+How many fingers does the average person have? <masked> Medium
+How many minutes are in an hour? <masked> Medium
+How many wheels does a standard car have? <masked> Small
+How many sides does a square have? <masked> Small
+How many legs does a dog typically have? <masked> Small
+How many colors are typically found in a rainbow? <masked> Small
+How many days are in a week? <masked> Medium
+How many quarters are in a dollar? <masked> Medium
+How many toes does a human typically have? <masked> Medium
+How many strings does a standard guitar usually have? <masked> Small
+How many sides does a triangle have? <masked> Small
+How many hours are in a day? <masked> Medium
+How many continents are there on Earth? <masked> Small
+How many legs does a cat typically have? <masked> Small
+How many ounces are in a pound? <masked> Medium
+How many sides does a hexagon have? <masked> Small
+How many seasons are there in a year? <masked> Small
+How many feet are in a mile? <masked> Medium
+How many legs does a spider typically have? <masked> Small
+How many inches are in a foot? <masked> Medium
+How many colors are typically in a standard pack of crayons? <masked> Medium
+How many sides does an octagon have? <masked> Small
+How many ears does the average person have? <masked> Medium
+How many cards are typically in a standard deck of playing cards? <masked> Medium
+How many sides does a pentagon have? <masked> Small
+How many eyes does a human typically have? <masked> Medium
+How many wheels does a tricycle usually have? <masked> Small
+How many legs does a bird typically have? <masked> Small
+How many ounces are in a cup? <masked> Medium
+How many sides does a rectangle have? <masked> Small
+How many hands does a human typically have? <masked> Medium
+How many feathers does a typical bird have? <masked> Medium
+How many sides does a circle have? <masked> Small
+How many pedals does a bicycle typically have? <masked> Small
+How many legs does a horse typically have? <masked> Small
+How many ounces are in a quart? <masked> Medium
+How many sides does an oval have? <masked> Small
+How many noses does a human typically have? <masked> Medium
+How many players are typically on a basketball team? <masked> Medium
+How many sides does a rhombus have? <masked> Small
+How many petals does a daisy typically have? <masked> Medium
+How many visitors does the Eiffel Tower attract annually? <masked> Large
+How many hotel rooms are there in Las Vegas? <masked> Large
+How many tourists visit the Grand Canyon National Park each year? <masked> Large
+How many cruise ships dock at the Port of Miami annually? <masked> Large
+How many passengers does the London Eye carry each day? <masked> Large
+How many visitors does Times Square in New York City attract on New Year's Eve? <masked> Large
+How many travelers visit the Vatican City annually? <masked> Large
+How many visitors explore the Colosseum in Rome each year? <masked> Large
+How many tourists visit the Great Wall of China annually? <masked> Large
+How many hotel rooms are there in Dubai? <masked> Large
+How many visitors explore Machu Picchu in Peru annually? <masked> Large
+How many tourists visit the Taj Mahal in India annually? <masked> Large
+How many travelers visit the Statue of Liberty in New York City annually? <masked> Large
+How many visitors does Disneyland in California receive annually? <masked> Large
+How many hotel rooms are there in Paris? <masked> Large
+How many tourists visit the Louvre Museum in Paris annually? <masked> Large
+How many passengers does Dubai International Airport handle annually? <masked> Large
+How many visitors explore the Acropolis in Athens annually? <masked> Large
+How many tourists visit the Vatican Museums annually? <masked> Large
+How many hotel rooms are there in London? <masked> Large
+How many visitors does the Metropolitan Museum of Art in New York City attract annually? <masked> Large
+How many tourists visit Niagara Falls annually? <masked> Large
+How many passengers does Tokyo Disneyland welcome annually? <masked> Large
+How many travelers visit Yellowstone National Park annually? <masked> Large
+How many hotel rooms are there in Tokyo? <masked> Large
+How many tourists visit the Sydney Opera House annually? <masked> Large
+How many visitors explore the Alhambra in Spain annually? <masked> Large
+How many passengers does Orlando International Airport handle annually? <masked> Large
+How many travelers visit the Golden Gate Bridge in San Francisco annually? <masked> Large
+How many hotel rooms are there in Bangkok? <masked> Large
+How many tourists visit the Vatican Gardens annually? <masked> Large
+How many visitors explore the Angkor Wat temple complex in Cambodia annually? <masked> Large
+How many passengers does Beijing Capital International Airport handle annually? <masked> Large
+How many travelers visit the Tower of London annually? <masked> Large
+How many hotel rooms are there in Hong Kong? <masked> Large
+How many tourists visit the Great Barrier Reef in Australia annually? <masked> Large
+How many visitors explore the British Museum in London annually? <masked> Large
+How many passengers does Singapore Changi Airport handle annually? <masked> Large
+How many travelers visit the Empire State Building in New York City annually? <masked> Large
+How many hotel rooms are there in Barcelona? <masked> Large
+How many tourists visit the Anne Frank House in Amsterdam annually? <masked> Large
+How many visitors explore the Galápagos Islands in Ecuador annually? <masked> Large
+How many passengers does Los Angeles International Airport handle annually? <masked> Large
+How many travelers visit the Vatican Library annually? <masked> Large
+How many hotel rooms are there in Singapore? <masked> Large
+How many tourists visit the Louvre Abu Dhabi annually? <masked> Large
+How many visitors explore the Tower Bridge in London annually? <masked> Large
+How many passengers does Hong Kong International Airport handle annually? <masked> Large
+How many travelers visit the Sydney Harbour Bridge annually? <masked> Large
+How many hotel rooms are there in Istanbul? <masked> Large
+How many tourists visit the Vatican Pinacoteca annually? <masked> Large
+How many visitors explore the Statue of Liberty Museum in New York City annually? <masked> Large
+How many passengers does Heathrow Airport in London handle annually? <masked> Large
+How many travelers visit the Christ the Redeemer statue in Rio de Janeiro annually? <masked> Large
+How many hotel rooms are there in Amsterdam? <masked> Large
+How many tourists visit the Vatican Necropolis annually? <masked> Large
+How many visitors explore the Great Smoky Mountains National Park annually? <masked> Large
+How many passengers does Charles de Gaulle Airport in Paris handle annually? <masked> Large
+How many travelers visit the Sagrada Família in Barcelona annually? <masked> Large
+How many hotel rooms are there in Sydney? <masked> Large
+How many episodes of "Friends" were aired during its entire run? <masked> Large
+How many subscribers does the popular YouTube channel "PewDiePie" have? <masked> Large
+How many Grammy Awards has Taylor Swift won in her career? <masked> Medium
+How many seasons of "Game of Thrones" were produced? <masked> Medium
+How many views does the most-watched music video on YouTube have? <masked> Large
+How many Marvel Cinematic Universe movies have been released to date? <masked> Medium
+How many followers does the official Instagram account of Kylie Jenner have? <masked> Large
+How many Academy Awards has Leonardo DiCaprio won? <masked> Small
+How many subscribers does the Netflix streaming service have worldwide? <masked> Large
+How many seasons of "The Simpsons" have been aired? <masked> Large
+How many albums has Beyoncé released in her career? <masked> Medium
+How many followers does the official Twitter account of Barack Obama have? <masked> Large
+How many episodes of "The Office" were produced in total? <masked> Large
+How many Oscars has Meryl Streep been nominated for? <masked> Small
+How many subscribers does the popular Twitch streamer "Ninja" have? <masked> Large
+How many seasons of "Breaking Bad" were produced? <masked> Medium
+How many followers does the official Facebook page of Cristiano Ronaldo have? <masked> Large
+How many episodes of "Stranger Things" have been released so far? <masked> Large
+How many albums has Drake released in his career? <masked> Medium
+How many followers does the official TikTok account of Charli D'Amelio have? <masked> Large
+How many episodes of "Grey's Anatomy" have been aired? <masked> Large
+How many Oscars has Tom Hanks won in his career? <masked> Small
+How many subscribers does the popular podcast "The Joe Rogan Experience" have? <masked> Large
+How many seasons of "Stranger Things" are planned in total? <masked> Medium
+How many albums has Rihanna released in her career? <masked> Medium
+How many followers does the official Instagram account of Dwayne "The Rock" Johnson have? <masked> Large
+How many episodes of "The Big Bang Theory" were produced in total? <masked> Large
+How many Oscars has Jennifer Lawrence won in her career? <masked> Small
+How many subscribers does the YouTube channel "Dude Perfect" have? <masked> Large
+How many seasons of "Friends" were originally planned by the creators? <masked> Medium
+How many albums has Kanye West released in his career? <masked> Medium
+How many followers does the official Twitter account of Ellen DeGeneres have? <masked> Large
+How many episodes of "Breaking Bad" are in the top 100 IMDb-rated TV episodes? <masked> Small
+How many Oscars has Brad Pitt won in his career? <masked> Small
+How many subscribers does the YouTube channel "MrBeast" have? <masked> Large
+How many seasons of "The Office" were originally planned by the creators? <masked> Medium
+How many albums has Adele released in her career? <masked> Medium
+How many followers does the official Facebook page of Justin Bieber have? <masked> Large
+How many episodes of "The Simpsons" are in the top 100 IMDb-rated TV episodes? <masked> Small
+How many Oscars has Angelina Jolie won in her career? <masked> Small
+How many subscribers does the YouTube channel "5-Minute Crafts" have? <masked> Large
+How many seasons of "Grey's Anatomy" are planned in total? <masked> Medium
+How many albums has Ed Sheeran released in his career? <masked> Medium
+How many followers does the official Instagram account of Ariana Grande have? <masked> Large
+How many episodes of "Friends" are in the top 100 IMDb-rated TV episodes? <masked> Small
+How many Oscars has Emma Stone won in her career? <masked> Small
+How many subscribers does the YouTube channel "Markiplier" have? <masked> Large
+How many seasons of "The Walking Dead" were produced? <masked> Medium
+How many albums has Justin Bieber released in his career? <masked> Medium
+How many followers does the official Twitter account of Katy Perry have? <masked> Large
+How many episodes of "The Office" are in the top 100 IMDb-rated TV episodes? <masked> Small
+How many Oscars has Scarlett Johansson been nominated for? <masked> Small
+How many subscribers does the YouTube channel "WWE" have? <masked> Large
+How many seasons of "The Walking Dead" are planned in total? <masked> Medium
+How many albums has Lady Gaga released in her career? <masked> Medium
+How many followers does the official Instagram account of Selena Gomez have? <masked> Large
+How many episodes of "Game of Thrones" are in the top 100 IMDb-rated TV episodes? <masked> Small
+How many Oscars has Hugh Jackman been nominated for? <masked> Small
+How many subscribers does the YouTube channel "Shane Dawson" have? <masked> Large
+How many seasons of "Breaking Bad" are in the top 100 IMDb-rated TV series? <masked> Small
+How many letters are there in the English alphabet? <masked> Small
+How many commonly used prepositions are there in English? <masked> Medium
+How many irregular verbs are there in the English language? <masked> Large
+How many vowels are there in the English alphabet? <masked> Small
+How many consonants are there in the English alphabet? <masked> Small
+How many synonyms does the word "happy" have in English? <masked> Medium
+How many articles are there in the English language? <masked> Small
+How many tenses are there in English grammar? <masked> Medium
+How many commonly used idioms are there in the English language? <masked> Large
+How many letters are there in the longest English word? <masked> Medium
+How many syllables does the word "communication" have? <masked> Medium
+How many irregular plural forms exist in English? <masked> Medium
+How many adjectives are there in the English language? <masked> Large
+How many adverbs are there in English grammar? <masked> Medium
+How many commonly used conjunctions are there in English? <masked> Medium
+How many articles are there in the English language? <masked> Small
+How many pronouns are there in English grammar? <masked> Medium
+How many phrasal verbs are there in the English language? <masked> Large
+How many letters are there in the shortest English word? <masked> Small
+How many syllables does the word "opportunity" have? <masked> Medium
+How many irregular past tense forms exist in English? <masked> Medium
+How many interjections are there in the English language? <masked> Medium
+How many letters are there in the word "antidisestablishmentarianism"? <masked> Medium
+How many syllables does the word "environmental" have? <masked> Medium
+How many common prefixes are there in English vocabulary? <masked> Medium
+How many common suffixes are there in English vocabulary? <masked> Medium
+How many silent letters are there in the English language? <masked> Medium
+How many letters are there in the word "supercalifragilisticexpialidocious"? <masked> Medium
+How many syllables does the word "extraordinary" have? <masked> Medium
+How many contractions are there in English grammar? <masked> Medium
+How many letters are there in the word "onomatopoeia"? <masked> Medium
+How many syllables does the word "television" have? <masked> Medium
+How many homophones are there in the English language? <masked> Medium
+How many letters are there in the word "hippopotomonstrosesquippedaliophobia"? <masked> Medium
+How many syllables does the word "international" have? <masked> Medium
+How many compound words are there in the English language? <masked> Large
+How many letters are there in the word "onomatopoeic"? <masked> Medium
+How many syllables does the word "accommodation" have? <masked> Medium
+How many homographs are there in the English language? <masked> Medium
+How many letters are there in the word "floccinaucinihilipilification"? <masked> Medium
+How many syllables does the word "personification" have? <masked> Medium
+How many compound adjectives are there in the English language? <masked> Large
+How many letters are there in the word "sesquipedalian"? <masked> Medium
+How many syllables does the word "independence" have? <masked> Medium
+How many homonyms are there in the English language? <masked> Medium
+How many letters are there in the word "pneumonoultramicroscopicsilicovolcanoconiosis"? <masked> Medium
+How many syllables does the word "catastrophic" have? <masked> Medium
+How many compound nouns are there in the English language? <masked> Large
+How many letters are there in the word "uncharacteristically"? <masked> Medium
+How many syllables does the word "disestablishmentarianism" have? <masked> Medium
+How many daily active users does Facebook have in North America? <masked> Large
+How many new tweets are posted on Twitter per second? <masked> Large
+How many monthly active users does Instagram have in Europe? <masked> Large
+How many photos are uploaded to Snapchat every minute globally? <masked> Large
+How many daily active users does TikTok have in Asia? <masked> Large
+How many hours of video content are uploaded to YouTube every hour worldwide? <masked> Large
+How many monthly active users does LinkedIn have in Australia? <masked> Large
+How many pins are saved on Pinterest every day in South America? <masked> Large
+How many monthly active users does Reddit have in Africa? <masked> Large
+How many messages are sent on WhatsApp every minute in Asia? <masked> Large
+How many daily active users does Snapchat have in Europe? <masked> Large
+How many hours of video content are watched on Facebook every day in North America? <masked> Large
+How many photos are uploaded to Instagram every minute in South America? <masked> Large
+How many likes are given on Facebook posts every second globally? <masked> Large
+How many daily active users does Twitter have in Africa? <masked> Large
+How many views do Instagram Stories receive every day in Europe? <masked> Large
+How many comments are made on YouTube videos every hour worldwide? <masked> Large
+How many monthly active users does Snapchat have in North America? <masked> Large
+How many pins are created on Pinterest every hour in Asia? <masked> Large
+How many daily active users does LinkedIn have in South America? <masked> Large
+How many tweets are sent on Twitter every minute in Africa? <masked> Large
+How many hours of video content are uploaded to YouTube every day in Europe? <masked> Large
+How many photos are shared on Instagram every hour in North America? <masked> Large
+How many likes are given on Facebook posts every minute in South America? <masked> Large
+How many messages are sent on WhatsApp every day in Asia? <masked> Large
+How many pins are saved on Pinterest every minute in Africa? <masked> Large
+How many monthly active users does Reddit have in Europe? <masked> Large
+How many videos are watched on TikTok every day in North America? <masked> Large
+How many tweets are sent on Twitter every day in South America? <masked> Large
+How many photos are uploaded to Snapchat every hour in Asia? <masked> Large
+How many likes are given on Instagram posts every second in Europe? <masked> Large
+How many messages are sent on Facebook Messenger every minute in Africa? <masked> Large
+How many pins are created on Pinterest every day in North America? <masked> Large
+How many comments are made on YouTube videos every minute in South America? <masked> Large
+How many daily active users does YouTube have in Europe? <masked> Large
+How many photos are shared on Instagram every day in Asia? <masked> Large
+How many tweets are sent on Twitter every hour in North America? <masked> Large
+How many videos are uploaded to Facebook every minute in Europe? <masked> Large
+How many messages are sent on Snapchat every day in South America? <masked> Large
+How many pins are saved on Pinterest every second in Asia? <masked> Large
+How many daily active users does WhatsApp have in North America? <masked> Large
+How many photos are uploaded to Instagram every minute in Europe? <masked> Large
+How many likes are given on TikTok videos every hour in South America? <masked> Large
+How many messages are sent on Twitter every day in Asia? <masked> Large
+How many pins are created on Pinterest every second in North America? <masked> Large
+How many views do Facebook videos receive every day in Europe? <masked> Large
+How many photos are shared on Snapchat every day in North America? <masked> Large
+How many tweets are sent on Twitter every second in South America? <masked> Large
+How many videos are uploaded to YouTube every minute in Asia? <masked> Large
+How many pins are saved on Pinterest every hour in North America? <masked> Large
+How many daily active users does Instagram have in Africa? <masked> Large
+How many messages are sent on Facebook Messenger every day in Europe? <masked> Large
+How many photos are uploaded to Instagram every day in South America? <masked> Large
+How many likes are given on Facebook posts every hour in Asia? <masked> Large
+How many tweets are sent on Twitter every minute in Asia? <masked> Large
+How many videos are watched on YouTube every day in North America? <masked> Large
+How many pins are created on Pinterest every day in South America? <masked> Large
+How many daily active users does WhatsApp have in Europe? <masked> Large
+How many messages are sent on Snapchat every minute in North America? <masked> Large
+How many photos are uploaded to Instagram every hour in Africa? <masked> Large
+How many likes are given on Instagram posts every minute in South America? <masked> Large
+How many tweets are sent on Twitter every day in North America? (Answer: 100+
+How many states are there in the United States? <masked> Medium
+How many national parks are there in the United States? <masked> Medium
+How many time zones does the contiguous United States span? <masked> Small
+How many recognized Native American tribes are there in the United States? <masked> Medium
+How many major professional sports leagues are based in the United States? <masked> Small
+How many recognized mountain ranges are there in the United States? <masked> Medium
+How many recognized national monuments are there in the United States? <masked> Medium
+How many recognized UNESCO World Heritage Sites are there in the United States? <masked> Medium
+How many recognized national forests are there in the United States? <masked> Medium
+How many recognized national wildlife refuges are there in the United States? <masked> Medium
+How many species of birds are there worldwide? <masked> Medium
+How many stripes does the average zebra have? <masked> Medium
+How many spots does the average leopard have? <masked> Medium
+How many legs does the average spider have? <masked> Medium
+How many eggs does the average sea turtle lay in a nesting season? <masked> Large
+How many teeth does the average adult lion have? <masked> Medium
+How many scales does the average snake have? <masked> Large
+How many tentacles does the average octopus have? <masked> Medium
+How many whiskers does the average domestic cat have? <masked> Medium
+How many eggs does the average crocodile lay in a clutch? <masked> Large
+How many stripes does the average tiger have? <masked> Medium
+How many legs does the average centipede have? <masked> Large
+How many feathers does the average bald eagle have? <masked> Large
+How many fins does the average dolphin have? <masked> Medium
+How many spots does the average cheetah have? <masked> Medium
+How many teeth does the average shark have? <masked> Large
+How many claws does the average bear have? <masked> Medium
+How many scales does the average fish have? <masked> Large
+How many legs does the average tarantula have? <masked> Medium
+How many feathers does the average peacock have? <masked> Large
+How many fins does the average fish have? <masked> Medium
+How many stripes does the average bee have? <masked> Medium
+How many spots does the average ladybug have? <masked> Medium
+How many eggs does the average frog lay in a spawning event? <masked> Large
+How many legs does the average grasshopper have? <masked> Medium
+How many scales does the average lizard have? <masked> Large
+How many tentacles does the average jellyfish have? <masked> Medium
+How many feathers does the average ostrich have? <masked> Large
+How many fins does the average shark have? <masked> Medium
+How many stripes does the average bumblebee have? <masked> Medium
+How many spots does the average leopard gecko have? <masked> Medium
+How many eggs does the average sea turtle lay in a clutch? <masked> Large
+How many legs does the average millipede have? <masked> Large
+How many scales does the average alligator have? <masked> Large
+How many tentacles does the average squid have? <masked> Medium
+How many feathers does the average swan have? <masked> Large
+How many fins does the average whale have? <masked> Medium
+How many stripes does the average zebra shark have? <masked> Medium
+How many spots does the average jaguar have? <masked> Medium
+How many eggs does the average salmon lay in a spawning event? <masked> Large
+How many legs does the average beetle have? <masked> Medium
+How many scales does the average chameleon have? <masked> Large
+How many tentacles does the average cuttlefish have? <masked> Medium
+How many feathers does the average bald eagle have? <masked> Large
+How many fins does the average dolphin have? <masked> Medium
+How many stripes does the average tiger shark have? <masked> Medium
+How many spots does the average giraffe have? <masked> Medium
+How many eggs does the average sea turtle lay in a nesting season? <masked> Large
+How many legs does the average spider have? <masked> Medium
+How many scales does the average snake have? <masked> Large
+How many tentacles does the average octopus have? <masked> Medium
+How many whiskers does the average domestic cat have? <masked> Medium
+How many eggs does the average crocodile lay in a clutch? <masked> Large
+How many stripes does the average tiger have? <masked> Medium
+How many legs does the average centipede have? <masked> Large
+How many feathers does the average bald eagle have? <masked> Large
+How many fins does the average dolphin have? <masked> Medium
+How many spots does the average cheetah have? <masked> Medium
+How many teeth does the average shark have? <masked> Large
+How many claws does the average bear have? <masked> Medium
+How many scales does the average fish have? <masked> Large
+How many legs does the average tarantula have? <masked> Medium
+How many feathers does the average peacock have? <masked> Large
+How many fins does the average fish have? <masked> Medium
+How many stripes does the average bee have? <masked> Medium
+How many spots does the average ladybug have? <masked> Medium
+How many eggs does the average frog lay in a spawning event? <masked> Large
+How many legs does the average grasshopper have? <masked> Medium
+How many scales does the average lizard have? <masked> Large
+How many tentacles does the average jellyfish have? <masked> Medium
+How many feathers does the average ostrich have? <masked> Large
+How many fins does the average shark have? <masked> Medium
+How many stripes does the average bumblebee have? <masked> Medium
+How many spots does the average leopard gecko have? <masked> Medium
+How many eggs does the average sea turtle lay in a clutch? <masked> Large
+How many legs does the average millipede have? <masked> Large
+How many scales does the average alligator have? <masked> Large
+How many tentacles does the average squid have? <masked> Medium
+How many feathers does the average swan have? <masked> Large
+How many fins does the average whale have? <masked> Medium
+How many stripes does the average zebra shark have? <masked> Medium
+How many spots does the average jaguar have? <masked> Medium
+How many eggs does the average salmon lay in a spawning event? <masked> Large
+How many legs does the average beetle have? <masked> Medium
+How many scales does the average chameleon have? <masked> Large
+How many tentacles does the average cuttlefish have? <masked> Medium
+How many feathers does the average bald eagle have? <masked> Large
+How many stripes does the average tiger shark have? <masked> Medium
+How many spots does the average giraffe have? <masked> Medium
+How many eggs does the average sea turtle lay in a nesting season? <masked> Large
+How many legs does the average spider have? <masked> Medium
+How many scales does the average snake have? <masked> Large
+How many tentacles does the average octopus have? <masked> Medium
+How many whiskers does the average domestic cat have? <masked> Medium
+How many eggs does the average crocodile lay in a clutch? <masked> Large
+How many stripes does the average tiger have? <masked> Medium
+How many legs does the average centipede have? <masked> Large
+How many feathers does the average bald eagle have? <masked> Large
+How many pyramids were built in ancient Egypt? <masked> Medium
+How many soldiers fought in the Battle of Gettysburg during the American Civil War? <masked> Medium
+How many years did the Roman Empire last? <masked> Large
+How many soldiers were involved in the D-Day invasion of Normandy during World War II? <masked> Large
+How many years ago was the Great Wall of China constructed? <masked> Large
+How many people lived in the Roman Empire at its peak? <masked> Large
+How many states were in the original Thirteen Colonies of America? <masked> Medium
+How many years did the Hundred Years' War last? <masked> Large
+How many people were estimated to be present at the Sermon on the Mount? <masked> Large
+How many years did the Ottoman Empire last? <masked> Large
+How many soldiers were involved in the Battle of Waterloo? <masked> Medium
+How many years did it take to build the Taj Mahal? <masked> Medium
+How many people were estimated to have witnessed the fall of the Roman Empire? <masked> Large
+How many years ago did the Mayan civilization flourish? <masked> Large
+How many people were present at the signing of the Magna Carta? <masked> Medium
+How many years did the Viking Age last? <masked> Large
+How many soldiers were involved in the Battle of Stalingrad during World War II? <masked> Large
+How many years ago did the Greek civilization reach its peak? <masked> Large
+How many people lived in the world during the Middle Ages? <masked> Large
+How many years did it take to construct the Great Pyramid of Giza? <masked> Large
+How many soldiers were involved in the Battle of Marathon? <masked> Medium
+How many years did it take to complete the construction of the Colosseum in Rome? <masked> Large
+How many people lived in the Byzantine Empire at its height? <masked> Large
+How many years did the American Revolutionary War last? <masked> Medium
+How many soldiers were involved in the Battle of Hastings? <masked> Medium
+How many years did it take to build Machu Picchu? <masked> Medium
+How many people lived in the city of Rome during the reign of Julius Caesar? <masked> Large
+How many years did the Crusades last? <masked> Large
+How many soldiers were involved in the Battle of Thermopylae? <masked> Medium
+How many years did it take to build the Forbidden City in China? <masked> Large
+How many people lived in the city of Constantinople during the Byzantine Empire? <masked> Large
+How many years did it take to construct Stonehenge? <masked> Large
+How many soldiers were involved in the Battle of Agincourt during the Hundred Years' War? <masked> Medium
+How many years did it take to build the Parthenon in Athens? <masked> Large
+How many people lived in the city of Tenochtitlan during the height of the Aztec Empire? <masked> Large
+How many years did it take to complete the construction of the Great Wall of China? <masked> Large
+How many soldiers were involved in the Siege of Vienna? <masked> Medium
+How many years did it take to build the city of Petra? <masked> Large
+How many people lived in the city of Babylon during the reign of Hammurabi? <masked> Large
+How many years did it take to construct the city of Carthage? <masked> Large
+How many soldiers were involved in the Battle of Cannae during the Second Punic War? <masked> Medium
+How many years did it take to build the city of Pompeii? <masked> Large
+How many people lived in the city of Athens during the Golden Age of Greece? <masked> Large
+How many years did it take to construct the city of Alexandria? <masked> Large
+How many soldiers were involved in the Battle of Austerlitz? <masked> Medium
+How many years did it take to build the city of Istanbul? <masked> Large
+How many people lived in the city of Rome during the reign of Augustus? <masked> Large
+How many years did it take to construct the city of Machu Picchu? <masked> Large
+How many soldiers were involved in the Battle of Verdun during World War I? <masked> Large
+How many years did it take to build the city of Angkor Wat? <masked> Large
+How many people lived in the city of Rome during the reign of Nero? <masked> Large
+How many years did it take to construct the city of Mohenjo-Daro? <masked> Large
+How many soldiers were involved in the Battle of the Bulge during World War II? <masked> Large
+How many years did it take to build the city of Tikal? <masked> Large
+How many people lived in the city of Rome during the reign of Constantine the Great? <masked> Large
+How many years did it take to construct the city of Persepolis? <masked> Large
+How many soldiers were involved in the Battle of Tours? <masked> Medium
+How many years did it take to build the city of Teotihuacan? <masked> Large
+How many people lived in the city of Rome during the reign of Julius Caesar? <masked> Large
+How many years did it take to construct the city of Babylon? <masked> Large
+How many soldiers were involved in the Battle of Antietam during the American Civil War? <masked> Medium
+How many years did it take to build the city of Chichen Itza? <masked> Large
+How many people lived in the city of Rome during the reign of Marcus Aurelius? <masked> Large
+How many years did it take to construct the city of Nineveh? <masked> Large
+How many soldiers were involved in the Battle of Marathon during the Persian Wars? <masked> Medium
+How many years did it take to build the city of Knossos? <masked> Large
+How many people lived in the city of Rome during the reign of Trajan? <masked> Large
+How many years did it take to construct the city of Ur? <masked> Large
+How many soldiers were involved in the Battle of Tours during the Muslim conquests of Europe? <masked> Medium
+How many years did it take to build the city of Ephesus? <masked> Large
+How many people lived in the city of Rome during the reign of Hadrian? <masked> Large
+How many years did it take to construct the city of Troy? <masked> Large
+How many soldiers were involved in the Battle of Saratoga during the American Revolutionary War? <masked> Medium
+How many years did it take to build the city of Pergamon? <masked> Large
+How many people lived in the city of Rome during the reign of Diocletian? <masked> Large
+How many years did it take to construct the city of Mycenae? <masked> Large
+How many soldiers were involved in the Battle of Actium during the Roman Civil Wars? <masked> Medium
+How many years did it take to build the city of Memphis? <masked> Large
+How many people lived in the city of Rome during the reign of Caligula? <masked> Large
+How many years did it take to construct the city of Ur? <masked> Large
+How many soldiers were involved in the Battle of Gaugamela during the conquests of Alexander the Great? <masked> Medium
+How many years did it take to build the city of Jericho? <masked> Large
+How many people lived in the city of Rome during the reign of Augustus? <masked> Large
+How many years did it take to construct the city of Sumer? <masked> Large
+How many soldiers were involved in the Battle of Culloden during the Jacobite Rising? <masked> Medium
+How many years did it take to build the city of Palenque? <masked> Large
+How many people lived in the city of Rome during the reign of Tiberius? <masked> Large
+How many years did it take to construct the city of Babylon? <masked> Large
+How many soldiers were involved in the Battle of Cannae during the Second Punic War? <masked> Medium
+How many years did it take to build the city of Petra? <masked> Large
+How many people lived in the city of Rome during the reign of Vespasian? <masked> Large
+How many years did it take to construct the city of Carthage? <masked> Large
+How many soldiers were involved in the Battle of Thermopylae during the Persian Wars? <masked> Medium
+How many years did it take to build the city of Tikal? <masked> Large
+How many people lived in the city of Rome during the reign of Nero? <masked> Large
+How many years did it take to construct the city of Teotihuacan? <masked> Large
+How many soldiers were involved in the Battle of Austerlitz during the Napoleonic Wars? <masked> Medium
+How many years did it take to build the city of Angkor Wat? <masked> Large
+How many people lived in the city of Rome during the reign of Trajan? <masked> Large
+How many years did it take to construct the city of Persepolis? <masked> Large
+How many tablespoons are in a cup? <masked> Medium
+How many ounces are in a pound? <masked> Medium
+How many minutes does it take to hard-boil an egg? <masked> Small
+How many teaspoons of salt are typically used in a bread recipe? <masked> Small
+How many cloves of garlic are in a bulb? <masked> Small
+How many grams of sugar are in a standard chocolate chip cookie? <masked> Medium
+How many cups of flour are in a standard bread recipe? <masked> Medium
+How many tablespoons of butter are in a stick? <masked> Medium
+How many minutes does it take to bake a pizza at 400°F? <masked> Small
+How many tablespoons of oil are typically used in a stir-fry? <masked> Small
+How many slices of bread are in a standard loaf? <masked> Medium
+How many minutes does it take to cook rice on the stovetop? <masked> Medium
+How many cups of water are needed to cook one cup of rice? <masked> Medium
+How many minutes does it take to bake brownies? <masked> Medium
+How many eggs are typically used in a quiche recipe? <masked> Medium
+How many tablespoons of sugar are in a can of soda? <masked> Medium
+How many teaspoons of baking powder are in a tablespoon? <masked> Small
+How many cups of water are needed to make a standard pot of coffee? <masked> Medium
+How many minutes does it take to grill a steak to medium-rare? <masked> Small
+How many tablespoons of tomato paste are typically used in a pasta sauce? <masked> Small
+How many cups of milk are needed to make a standard box of macaroni and cheese? <masked> Medium
+How many tablespoons of vinegar are typically used in a salad dressing recipe? <masked> Small
+How many minutes does it take to bake a batch of chocolate chip cookies? <masked> Medium
+How many teaspoons of vanilla extract are in a tablespoon? <masked> Small
+How many cups of water are needed to boil a dozen eggs? <masked> Medium
+How many minutes does it take to cook pasta al dente? <masked> Medium
+How many tablespoons of lemon juice are typically used in a lemonade recipe? <masked> Small
+How many cups of broth are needed to make a pot of chicken soup? <masked> Medium
+How many minutes does it take to roast a chicken at 350°F? <masked> Medium
+How many teaspoons of cinnamon are typically used in a cinnamon roll recipe? <masked> Small
+How many cups of sugar are in a pound? <masked> Medium
+How many minutes does it take to cook pancakes on a griddle? <masked> Medium
+How many tablespoons of mayonnaise are typically used in a tuna salad recipe? <masked> Small
+How many cups of flour are needed to make a batch of pancakes? <masked> Medium
+How many minutes does it take to grill a hamburger? <masked> Medium
+How many teaspoons of olive oil are in a tablespoon? <masked> Small
+How many cups of cheese are needed to make a lasagna? <masked> Medium
+How many minutes does it take to bake a loaf of bread? <masked> Medium
+How many teaspoons of chili powder are typically used in a chili recipe? <masked> Small
+How many cups of vegetable broth are needed to make a pot of vegetable soup? <masked> Medium
+How many minutes does it take to cook scrambled eggs? <masked> Small
+How many tablespoons of soy sauce are typically used in a stir-fry? <masked> Small
+How many cups of oats are in a standard canister? <masked> Medium
+How many minutes does it take to cook bacon in the oven? <masked> Medium
+How many teaspoons of ginger are typically used in a gingerbread cookie recipe? <masked> Small
+How many cups of water are needed to make a pot of tea? <masked> Medium
+How many minutes does it take to cook a pot of quinoa? <masked> Medium
+How many tablespoons of honey are typically used in a honey mustard dressing recipe? <masked> Small
+How many cups of frosting are needed to decorate a standard cake? <masked> Medium
+How many minutes does it take to broil a salmon fillet? <masked> Medium
+How many questions are typically on a multiple-choice test? <masked> Medium
+How many essays are usually required for a final exam in a college course? <masked> Medium
+How many minutes does it take to complete a standard SAT exam section? <masked> Small
+How many students are typically in a classroom during a final exam? <masked> Medium
+How many pages are typically in a high school final exam packet? <masked> Medium
+How many minutes are usually allocated for a short-answer question on a test? <masked> Small
+How many students are typically in a lecture hall during a midterm exam? <masked> Medium
+How many hours does it typically take to complete a comprehensive final exam in a college course? <masked> Medium
+How many questions are typically in a standardized IQ test? <masked> Medium
+How many words are usually required for an essay question on a final exam? <masked> Medium
+How many minutes does it typically take to complete a spelling test? <masked> Small
+How many students are typically in a gymnasium during a state standardized test? <masked> Medium
+How many hours of studying are typically recommended for a final exam in a university course? <masked> Medium
+How many questions are typically in a driving theory test? <masked> Medium
+How many minutes does it typically take to complete a math problem on an exam? <masked> Small
+How many students are typically in a library during midterms? <masked> Medium
+How many hours does it typically take to complete a bar exam? <masked> Medium
+How many questions are typically in a standardized medical exam? <masked> Medium
+How many minutes does it typically take to complete a true/false question on a test? <masked> Small
+How many students are typically in a computer lab during a final exam? <masked> Medium
+How many hours does it typically take to complete a professional certification exam? <masked> Medium
+How many questions are typically in a driving practical test? <masked> Medium
+How many minutes does it typically take to complete a reading comprehension question on an exam? <masked> Small
+How many students are typically in an auditorium during a standardized state test? <masked> Medium
+How many hours does it typically take to complete a certification exam for a software program? <masked> Medium
+How many questions are typically in a foreign language proficiency test? <masked> Medium
+How many minutes does it typically take to complete a fill-in-the-blank question on a test? <masked> Small
+How many students are typically in a cafeteria during a final exam? <masked> Medium
+How many hours does it typically take to complete a teacher certification exam? <masked> Medium
+How many questions are typically in a standardized test for nursing? <masked> Medium
+How many minutes does it typically take to complete a matching question on an exam? <masked> Small
+How many students are typically in a lecture hall during a mid-semester exam? <masked> Medium
+How many hours does it typically take to complete a language proficiency exam? <masked> Medium
+How many questions are typically in a professional certification exam for accounting? <masked> Medium
+How many minutes does it typically take to complete a diagram question on a test? <masked> Small
+How many students are typically in a school gymnasium during a standardized test? <masked> Medium
+How many hours does it typically take to complete a real estate licensing exam? <masked> Medium
+How many questions are typically in a standardized test for aviation? <masked> Medium
+How many minutes does it typically take to complete a critical thinking question on an exam? <masked> Small
+How many students are typically in a study hall during a final exam period? <masked> Medium
+How many hours does it typically take to complete a standardized test for law enforcement? <masked> Medium
+How many questions are typically in a standardized test for engineering? <masked> Medium
+How many minutes does it typically take to complete a problem-solving question on an exam? <masked> Small
+How many students are typically in a classroom during a midterm review session? <masked> Medium
+How many hours does it typically take to complete a standardized test for project management? <masked> Medium
+How many questions are typically in a standardized test for information technology? <masked> Medium
+How many minutes does it typically take to complete a graph interpretation question on an exam? <masked> Small
+How many students are typically in a computer lab during a midterm exam? <masked> Medium
+How many hours does it typically take to complete a standardized test for healthcare administration? <masked> Medium
+How many questions are typically in a standardized test for social work? <masked> Medium
